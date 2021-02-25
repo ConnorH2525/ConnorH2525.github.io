@@ -29,8 +29,6 @@ gdjs.MenuCode.GDNAObjects1= [];
 gdjs.MenuCode.GDNAObjects2= [];
 gdjs.MenuCode.GDSoundObjects1= [];
 gdjs.MenuCode.GDSoundObjects2= [];
-gdjs.MenuCode.GDMusicButtonObjects1= [];
-gdjs.MenuCode.GDMusicButtonObjects2= [];
 gdjs.MenuCode.GDNewObject3Objects1= [];
 gdjs.MenuCode.GDNewObject3Objects2= [];
 gdjs.MenuCode.GDQuitObjects1= [];
@@ -45,6 +43,8 @@ gdjs.MenuCode.GDNewObject11Objects1= [];
 gdjs.MenuCode.GDNewObject11Objects2= [];
 gdjs.MenuCode.GDNewObject12Objects1= [];
 gdjs.MenuCode.GDNewObject12Objects2= [];
+gdjs.MenuCode.GDMusicToggleObjects1= [];
+gdjs.MenuCode.GDMusicToggleObjects2= [];
 
 gdjs.MenuCode.conditionTrue_0 = {val:false};
 gdjs.MenuCode.condition0IsTrue_0 = {val:false};
@@ -69,7 +69,7 @@ gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.M
 }if ( gdjs.MenuCode.condition0IsTrue_0.val ) {
 {
 {gdjs.MenuCode.conditionTrue_1 = gdjs.MenuCode.condition1IsTrue_0;
-gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9252596);
+gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8997380);
 }
 }}
 if (gdjs.MenuCode.condition1IsTrue_0.val) {
@@ -86,7 +86,7 @@ if (gdjs.MenuCode.condition1IsTrue_0.val) {
 }
 
 
-};gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDPlayObjects1Objects = Hashtable.newFrom({"Play": gdjs.MenuCode.GDPlayObjects1});gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDLeaderboardsObjects1Objects = Hashtable.newFrom({"Leaderboards": gdjs.MenuCode.GDLeaderboardsObjects1});gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDNAObjects1Objects = Hashtable.newFrom({"NA": gdjs.MenuCode.GDNAObjects1});gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDLeaderboardsObjects1Objects = Hashtable.newFrom({"Leaderboards": gdjs.MenuCode.GDLeaderboardsObjects1});gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDMusicButtonObjects1Objects = Hashtable.newFrom({"MusicButton": gdjs.MenuCode.GDMusicButtonObjects1});gdjs.MenuCode.eventsList1 = function(runtimeScene) {
+};gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDPlayObjects1Objects = Hashtable.newFrom({"Play": gdjs.MenuCode.GDPlayObjects1});gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDLeaderboardsObjects1Objects = Hashtable.newFrom({"Leaderboards": gdjs.MenuCode.GDLeaderboardsObjects1});gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDNAObjects1Objects = Hashtable.newFrom({"NA": gdjs.MenuCode.GDNAObjects1});gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDLeaderboardsObjects1Objects = Hashtable.newFrom({"Leaderboards": gdjs.MenuCode.GDLeaderboardsObjects1});gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDMusicToggleObjects1Objects = Hashtable.newFrom({"MusicToggle": gdjs.MenuCode.GDMusicToggleObjects1});gdjs.MenuCode.eventsList1 = function(runtimeScene) {
 
 {
 
@@ -98,7 +98,7 @@ gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonPressed(
 }if ( gdjs.MenuCode.condition0IsTrue_0.val ) {
 {
 {gdjs.MenuCode.conditionTrue_1 = gdjs.MenuCode.condition1IsTrue_0;
-gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9257044);
+gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9001852);
 }
 }}
 if (gdjs.MenuCode.condition1IsTrue_0.val) {
@@ -136,7 +136,7 @@ gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.M
 }if ( gdjs.MenuCode.condition0IsTrue_0.val ) {
 {
 {gdjs.MenuCode.conditionTrue_1 = gdjs.MenuCode.condition1IsTrue_0;
-gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9251052);
+gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8996020);
 }
 }}
 if (gdjs.MenuCode.condition1IsTrue_0.val) {
@@ -198,7 +198,7 @@ gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.M
 }if ( gdjs.MenuCode.condition0IsTrue_0.val ) {
 {
 {gdjs.MenuCode.conditionTrue_1 = gdjs.MenuCode.condition1IsTrue_0;
-gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9254732);
+gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8998844);
 }
 }}
 if (gdjs.MenuCode.condition1IsTrue_0.val) {
@@ -229,11 +229,11 @@ gdjs.copyArray(runtimeScene.getObjects("NA"), gdjs.MenuCode.GDNAObjects1);
 
 {
 
-gdjs.copyArray(runtimeScene.getObjects("MusicButton"), gdjs.MenuCode.GDMusicButtonObjects1);
+gdjs.copyArray(runtimeScene.getObjects("MusicToggle"), gdjs.MenuCode.GDMusicToggleObjects1);
 
 gdjs.MenuCode.condition0IsTrue_0.val = false;
 {
-gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDMusicButtonObjects1Objects, runtimeScene, true, false);
+gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDMusicToggleObjects1Objects, runtimeScene, true, false);
 }if (gdjs.MenuCode.condition0IsTrue_0.val) {
 
 { //Subevents
@@ -250,9 +250,9 @@ gdjs.MenuCode.condition0IsTrue_0.val = false;
 {
 gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(0)) == 1;
 }if (gdjs.MenuCode.condition0IsTrue_0.val) {
-gdjs.copyArray(runtimeScene.getObjects("MusicButton"), gdjs.MenuCode.GDMusicButtonObjects1);
-{for(var i = 0, len = gdjs.MenuCode.GDMusicButtonObjects1.length ;i < len;++i) {
-    gdjs.MenuCode.GDMusicButtonObjects1[i].setAnimation(0);
+gdjs.copyArray(runtimeScene.getObjects("MusicToggle"), gdjs.MenuCode.GDMusicToggleObjects1);
+{for(var i = 0, len = gdjs.MenuCode.GDMusicToggleObjects1.length ;i < len;++i) {
+    gdjs.MenuCode.GDMusicToggleObjects1[i].setAnimation(0);
 }
 }}
 
@@ -266,9 +266,9 @@ gdjs.MenuCode.condition0IsTrue_0.val = false;
 {
 gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(0)) == -(1);
 }if (gdjs.MenuCode.condition0IsTrue_0.val) {
-gdjs.copyArray(runtimeScene.getObjects("MusicButton"), gdjs.MenuCode.GDMusicButtonObjects1);
-{for(var i = 0, len = gdjs.MenuCode.GDMusicButtonObjects1.length ;i < len;++i) {
-    gdjs.MenuCode.GDMusicButtonObjects1[i].setAnimation(1);
+gdjs.copyArray(runtimeScene.getObjects("MusicToggle"), gdjs.MenuCode.GDMusicToggleObjects1);
+{for(var i = 0, len = gdjs.MenuCode.GDMusicToggleObjects1.length ;i < len;++i) {
+    gdjs.MenuCode.GDMusicToggleObjects1[i].setAnimation(1);
 }
 }}
 
@@ -347,8 +347,6 @@ gdjs.MenuCode.GDNAObjects1.length = 0;
 gdjs.MenuCode.GDNAObjects2.length = 0;
 gdjs.MenuCode.GDSoundObjects1.length = 0;
 gdjs.MenuCode.GDSoundObjects2.length = 0;
-gdjs.MenuCode.GDMusicButtonObjects1.length = 0;
-gdjs.MenuCode.GDMusicButtonObjects2.length = 0;
 gdjs.MenuCode.GDNewObject3Objects1.length = 0;
 gdjs.MenuCode.GDNewObject3Objects2.length = 0;
 gdjs.MenuCode.GDQuitObjects1.length = 0;
@@ -363,6 +361,8 @@ gdjs.MenuCode.GDNewObject11Objects1.length = 0;
 gdjs.MenuCode.GDNewObject11Objects2.length = 0;
 gdjs.MenuCode.GDNewObject12Objects1.length = 0;
 gdjs.MenuCode.GDNewObject12Objects2.length = 0;
+gdjs.MenuCode.GDMusicToggleObjects1.length = 0;
+gdjs.MenuCode.GDMusicToggleObjects2.length = 0;
 
 gdjs.MenuCode.eventsList3(runtimeScene);
 return;
