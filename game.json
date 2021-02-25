@@ -351,28 +351,10 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "NewObject3-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewObject3-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "NewObject-1-0.png",
         "kind": "image",
         "metadata": "",
         "name": "NewObject-1-0.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "NewObject3-1-0.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewObject3-1-0.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -1009,6 +991,24 @@
         "name": "Progress.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject3-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject3-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject3-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject3-1-0.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1145,8 +1145,8 @@
           "name": "Instructions",
           "persistentUuid": "bd94fc73-2919-4f99-b13c-abba32127d4a",
           "width": 377,
-          "x": 56,
-          "y": 389,
+          "x": 53,
+          "y": 426,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -1321,7 +1321,7 @@
           "name": "NewObject4",
           "persistentUuid": "b9e79ae6-a7db-4a9a-8e8e-7e6874d02c94",
           "width": 45,
-          "x": 633,
+          "x": 674,
           "y": 417,
           "zOrder": 20,
           "numberProperties": [],
@@ -1337,7 +1337,7 @@
           "name": "NewObject9",
           "persistentUuid": "88ea75fe-9fb0-42c5-89af-c2b349d2d623",
           "width": 34,
-          "x": 636,
+          "x": 678,
           "y": 465,
           "zOrder": 21,
           "numberProperties": [],
@@ -1353,8 +1353,8 @@
           "name": "NewObject10",
           "persistentUuid": "c11fb6d5-e690-4d7c-a4b8-cc38a0299d4b",
           "width": 50,
-          "x": 632,
-          "y": 509,
+          "x": 670,
+          "y": 507,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -1385,8 +1385,8 @@
           "name": "NewObject12",
           "persistentUuid": "e6017e17-a536-4878-ad05-9480f24767cd",
           "width": 0,
-          "x": 620,
-          "y": 391,
+          "x": 667,
+          "y": 389,
           "zOrder": 24,
           "numberProperties": [],
           "stringProperties": [],
@@ -1404,6 +1404,22 @@
           "x": 724,
           "y": 9,
           "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "InstructionsTitle",
+          "persistentUuid": "181e7823-334d-455b-b448-37cfa567c08f",
+          "width": 0,
+          "x": 55,
+          "y": 410,
+          "zOrder": 27,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2352,6 +2368,25 @@
               ]
             }
           ]
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "InstructionsTitle",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Instructions",
+          "font": "",
+          "characterSize": 25,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
         }
       ],
       "events": [
@@ -4025,7 +4060,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Chocolate-3.png",
+                      "image": "NewObject3-1-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
