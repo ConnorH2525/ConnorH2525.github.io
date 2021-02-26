@@ -670,15 +670,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "NewObject13-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewObject13-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "NewObject13-1-0.png",
         "kind": "image",
         "metadata": "",
@@ -1009,6 +1000,15 @@
         "name": "NewObject3-1-0.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject13-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject13-1.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1241,8 +1241,8 @@
           "name": "Play",
           "persistentUuid": "edf330c4-8955-4139-b545-cbe5559e8517",
           "width": 175,
-          "x": 185,
-          "y": 290,
+          "x": 326,
+          "y": 288,
           "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
@@ -1267,14 +1267,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 104,
+          "height": 75,
           "layer": "",
           "locked": false,
           "name": "Leaderboards",
           "persistentUuid": "9fca0b3b-1853-4799-920f-69b92c9c688d",
-          "width": 236,
-          "x": 402,
-          "y": 290,
+          "width": 165,
+          "x": 513,
+          "y": 296,
           "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
@@ -1420,6 +1420,22 @@
           "x": 55,
           "y": 410,
           "zOrder": 27,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 75,
+          "layer": "",
+          "locked": false,
+          "name": "UnlockIngredients",
+          "persistentUuid": "b169a507-7dd9-4928-a56e-ee2ea812e77e",
+          "width": 165,
+          "x": 143,
+          "y": 298,
+          "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2387,6 +2403,45 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "name": "UnlockIngredients",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject13",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject13-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -2588,15 +2643,37 @@
             {
               "type": {
                 "inverted": false,
-                "value": "SourisSurObjet"
+                "value": "BuiltinCommonInstructions::Or"
               },
-              "parameters": [
-                "Leaderboards",
-                "",
-                "",
-                ""
-              ],
-              "subInstructions": []
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Leaderboards",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "UnlockIngredients",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ]
             },
             {
               "type": {
@@ -2616,7 +2693,7 @@
               "parameters": [
                 "",
                 "NA",
-                "420",
+                "320",
                 "250",
                 ""
               ],
@@ -2632,16 +2709,38 @@
           "conditions": [
             {
               "type": {
-                "inverted": true,
-                "value": "SourisSurObjet"
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::And"
               },
-              "parameters": [
-                "Leaderboards",
-                "",
-                "",
-                ""
-              ],
-              "subInstructions": []
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Leaderboards",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "UnlockIngredients",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ]
             }
           ],
           "actions": [
