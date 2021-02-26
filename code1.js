@@ -89,6 +89,9 @@ gdjs.GameplayCode.GDNewObjectObjects3= [];
 gdjs.GameplayCode.GDProgressObjects1= [];
 gdjs.GameplayCode.GDProgressObjects2= [];
 gdjs.GameplayCode.GDProgressObjects3= [];
+gdjs.GameplayCode.GDVulnerabilityObjects1= [];
+gdjs.GameplayCode.GDVulnerabilityObjects2= [];
+gdjs.GameplayCode.GDVulnerabilityObjects3= [];
 
 gdjs.GameplayCode.conditionTrue_0 = {val:false};
 gdjs.GameplayCode.condition0IsTrue_0 = {val:false};
@@ -142,7 +145,7 @@ if( gdjs.GameplayCode.condition2IsTrue_1.val ) {
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9026204);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8772172);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
@@ -251,7 +254,7 @@ gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumbe
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9028140);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8774108);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
@@ -385,7 +388,7 @@ gdjs.GameplayCode.condition1IsTrue_0.val = gdjs.evtTools.object.pickedObjectsCou
 }if ( gdjs.GameplayCode.condition1IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition2IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9024204);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8770172);
 }
 }}
 }
@@ -435,7 +438,7 @@ if( gdjs.GameplayCode.condition2IsTrue_1.val ) {
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9032620);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8778588);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
@@ -544,7 +547,7 @@ gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumbe
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9034556);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8780524);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
@@ -678,7 +681,7 @@ gdjs.GameplayCode.condition1IsTrue_0.val = gdjs.evtTools.object.pickedObjectsCou
 }if ( gdjs.GameplayCode.condition1IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition2IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9030820);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8776788);
 }
 }}
 }
@@ -728,7 +731,7 @@ if( gdjs.GameplayCode.condition2IsTrue_1.val ) {
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9039060);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8785028);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
@@ -837,7 +840,7 @@ gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumbe
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9040996);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8786964);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
@@ -971,7 +974,7 @@ gdjs.GameplayCode.condition1IsTrue_0.val = gdjs.evtTools.object.pickedObjectsCou
 }if ( gdjs.GameplayCode.condition1IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition2IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9037060);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8783028);
 }
 }}
 }
@@ -1021,7 +1024,7 @@ if( gdjs.GameplayCode.condition2IsTrue_1.val ) {
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9045500);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8791468);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
@@ -1130,7 +1133,7 @@ gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumbe
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9047404);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8793372);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
@@ -1265,7 +1268,7 @@ gdjs.GameplayCode.condition1IsTrue_0.val = gdjs.evtTools.object.pickedObjectsCou
 }if ( gdjs.GameplayCode.condition1IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition2IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9043500);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8789468);
 }
 }}
 }
@@ -1311,9 +1314,24 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood4Objects1.length ;i < len;++i) {
 
 };gdjs.GameplayCode.eventsList11 = function(runtimeScene) {
 
-};gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDLifeObjects1Objects = Hashtable.newFrom({"Life": gdjs.GameplayCode.GDLifeObjects1});gdjs.GameplayCode.eventsList12 = function(runtimeScene) {
+};gdjs.GameplayCode.eventsList12 = function(runtimeScene) {
 
-};gdjs.GameplayCode.eventsList13 = function(runtimeScene) {
+{
+
+
+gdjs.GameplayCode.condition0IsTrue_0.val = false;
+{
+gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(4)) == -(1);
+}if (gdjs.GameplayCode.condition0IsTrue_0.val) {
+{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Menu", true);
+}}
+
+}
+
+
+};gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDLifeObjects1Objects = Hashtable.newFrom({"Life": gdjs.GameplayCode.GDLifeObjects1});gdjs.GameplayCode.eventsList13 = function(runtimeScene) {
+
+};gdjs.GameplayCode.eventsList14 = function(runtimeScene) {
 
 {
 
@@ -1325,22 +1343,42 @@ gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runt
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9057708);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8804356);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
-gdjs.copyArray(runtimeScene.getObjects("Score"), gdjs.GameplayCode.GDScoreObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Score"), gdjs.GameplayCode.GDScoreObjects2);
 {runtimeScene.getVariables().getFromIndex(2).add(25);
 }{gdjs.evtTools.runtimeScene.setTimeScale(runtimeScene, 1 + gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(2)) * 0.075);
-}{for(var i = 0, len = gdjs.GameplayCode.GDScoreObjects1.length ;i < len;++i) {
-    gdjs.GameplayCode.GDScoreObjects1[i].setString("Score: " + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(2)));
+}{for(var i = 0, len = gdjs.GameplayCode.GDScoreObjects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDScoreObjects2[i].setString("\nScore: " + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(2)));
 }
 }}
 
 }
 
 
-};gdjs.GameplayCode.eventsList14 = function(runtimeScene) {
+{
+
+
+gdjs.GameplayCode.condition0IsTrue_0.val = false;
+gdjs.GameplayCode.condition1IsTrue_0.val = false;
+{
+gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeScene, "Right");
+}if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
+{
+{gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8805660);
+}
+}}
+if (gdjs.GameplayCode.condition1IsTrue_0.val) {
+{runtimeScene.getVariables().getFromIndex(4).mul(-(1));
+}}
+
+}
+
+
+};gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDVulnerabilityObjects1Objects = Hashtable.newFrom({"Vulnerability": gdjs.GameplayCode.GDVulnerabilityObjects1});gdjs.GameplayCode.eventsList15 = function(runtimeScene) {
 
 {
 
@@ -1622,8 +1660,10 @@ gdjs.GameplayCode.condition0IsTrue_0.val = false;
 {
 gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(3)) >= 3;
 }if (gdjs.GameplayCode.condition0IsTrue_0.val) {
-{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Menu", true);
-}}
+
+{ //Subevents
+gdjs.GameplayCode.eventsList12(runtimeScene);} //End of subevents
+}
 
 }
 
@@ -1651,7 +1691,7 @@ gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElaps
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9052588);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8799044);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
@@ -1792,7 +1832,7 @@ gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runt
 {
 
 
-gdjs.GameplayCode.eventsList12(runtimeScene);
+gdjs.GameplayCode.eventsList13(runtimeScene);
 }
 
 
@@ -1815,10 +1855,77 @@ gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runt
 gdjs.GameplayCode.condition1IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeScene, "RShift");
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
-
-{ //Subevents
-gdjs.GameplayCode.eventsList13(runtimeScene);} //End of subevents
+{gdjs.evtTools.runtimeScene.pauseTimer(runtimeScene, "OrderTimeLimit");
 }
+{ //Subevents
+gdjs.GameplayCode.eventsList14(runtimeScene);} //End of subevents
+}
+
+}
+
+
+{
+
+
+gdjs.GameplayCode.condition0IsTrue_0.val = false;
+{
+{gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition0IsTrue_0;
+gdjs.GameplayCode.condition0IsTrue_1.val = false;
+gdjs.GameplayCode.condition1IsTrue_1.val = false;
+{
+gdjs.GameplayCode.condition0IsTrue_1.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "RShift");
+if( gdjs.GameplayCode.condition0IsTrue_1.val ) {
+    gdjs.GameplayCode.conditionTrue_1.val = true;
+}
+}
+{
+gdjs.GameplayCode.condition1IsTrue_1.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "LShift");
+if( gdjs.GameplayCode.condition1IsTrue_1.val ) {
+    gdjs.GameplayCode.conditionTrue_1.val = true;
+}
+}
+{
+}
+}
+}if (gdjs.GameplayCode.condition0IsTrue_0.val) {
+{gdjs.evtTools.runtimeScene.unpauseTimer(runtimeScene, "OrderTimeLimit");
+}}
+
+}
+
+
+{
+
+
+gdjs.GameplayCode.condition0IsTrue_0.val = false;
+{
+gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(4)) == 1;
+}if (gdjs.GameplayCode.condition0IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("Life"), gdjs.GameplayCode.GDLifeObjects1);
+gdjs.GameplayCode.GDVulnerabilityObjects1.length = 0;
+
+{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDVulnerabilityObjects1Objects, 630, 76, "");
+}{runtimeScene.getVariables().getFromIndex(3).setNumber(0);
+}{for(var i = 0, len = gdjs.GameplayCode.GDLifeObjects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDLifeObjects1[i].deleteFromScene(runtimeScene);
+}
+}}
+
+}
+
+
+{
+
+
+gdjs.GameplayCode.condition0IsTrue_0.val = false;
+{
+gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(4)) == -(1);
+}if (gdjs.GameplayCode.condition0IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("Vulnerability"), gdjs.GameplayCode.GDVulnerabilityObjects1);
+{for(var i = 0, len = gdjs.GameplayCode.GDVulnerabilityObjects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDVulnerabilityObjects1[i].deleteFromScene(runtimeScene);
+}
+}}
 
 }
 
@@ -1918,8 +2025,11 @@ gdjs.GameplayCode.GDNewObjectObjects3.length = 0;
 gdjs.GameplayCode.GDProgressObjects1.length = 0;
 gdjs.GameplayCode.GDProgressObjects2.length = 0;
 gdjs.GameplayCode.GDProgressObjects3.length = 0;
+gdjs.GameplayCode.GDVulnerabilityObjects1.length = 0;
+gdjs.GameplayCode.GDVulnerabilityObjects2.length = 0;
+gdjs.GameplayCode.GDVulnerabilityObjects3.length = 0;
 
-gdjs.GameplayCode.eventsList14(runtimeScene);
+gdjs.GameplayCode.eventsList15(runtimeScene);
 return;
 
 }

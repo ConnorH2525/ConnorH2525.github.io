@@ -45,6 +45,8 @@ gdjs.MenuCode.GDNewObject12Objects1= [];
 gdjs.MenuCode.GDNewObject12Objects2= [];
 gdjs.MenuCode.GDMusicToggleObjects1= [];
 gdjs.MenuCode.GDMusicToggleObjects2= [];
+gdjs.MenuCode.GDInstructionsTitleObjects1= [];
+gdjs.MenuCode.GDInstructionsTitleObjects2= [];
 
 gdjs.MenuCode.conditionTrue_0 = {val:false};
 gdjs.MenuCode.condition0IsTrue_0 = {val:false};
@@ -69,7 +71,7 @@ gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.M
 }if ( gdjs.MenuCode.condition0IsTrue_0.val ) {
 {
 {gdjs.MenuCode.conditionTrue_1 = gdjs.MenuCode.condition1IsTrue_0;
-gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8997380);
+gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8743180);
 }
 }}
 if (gdjs.MenuCode.condition1IsTrue_0.val) {
@@ -98,7 +100,7 @@ gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonPressed(
 }if ( gdjs.MenuCode.condition0IsTrue_0.val ) {
 {
 {gdjs.MenuCode.conditionTrue_1 = gdjs.MenuCode.condition1IsTrue_0;
-gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9001852);
+gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8747652);
 }
 }}
 if (gdjs.MenuCode.condition1IsTrue_0.val) {
@@ -136,7 +138,7 @@ gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.M
 }if ( gdjs.MenuCode.condition0IsTrue_0.val ) {
 {
 {gdjs.MenuCode.conditionTrue_1 = gdjs.MenuCode.condition1IsTrue_0;
-gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8996020);
+gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8741860);
 }
 }}
 if (gdjs.MenuCode.condition1IsTrue_0.val) {
@@ -198,7 +200,7 @@ gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.M
 }if ( gdjs.MenuCode.condition0IsTrue_0.val ) {
 {
 {gdjs.MenuCode.conditionTrue_1 = gdjs.MenuCode.condition1IsTrue_0;
-gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8998844);
+gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8744644);
 }
 }}
 if (gdjs.MenuCode.condition1IsTrue_0.val) {
@@ -363,6 +365,8 @@ gdjs.MenuCode.GDNewObject12Objects1.length = 0;
 gdjs.MenuCode.GDNewObject12Objects2.length = 0;
 gdjs.MenuCode.GDMusicToggleObjects1.length = 0;
 gdjs.MenuCode.GDMusicToggleObjects2.length = 0;
+gdjs.MenuCode.GDInstructionsTitleObjects1.length = 0;
+gdjs.MenuCode.GDInstructionsTitleObjects2.length = 0;
 
 gdjs.MenuCode.eventsList3(runtimeScene);
 return;
