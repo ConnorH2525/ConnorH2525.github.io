@@ -111,7 +111,30 @@ gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.M
 }
 
 
-};gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDLeaderboardsObjects1Objects = Hashtable.newFrom({"Leaderboards": gdjs.MenuCode.GDLeaderboardsObjects1});gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDMusicToggleObjects1Objects = Hashtable.newFrom({"MusicToggle": gdjs.MenuCode.GDMusicToggleObjects1});gdjs.MenuCode.eventsList2 = function(runtimeScene) {
+};gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDLeaderboardsObjects1Objects = Hashtable.newFrom({"Leaderboards": gdjs.MenuCode.GDLeaderboardsObjects1});gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDUnlockIngredientsObjects1Objects = Hashtable.newFrom({"UnlockIngredients": gdjs.MenuCode.GDUnlockIngredientsObjects1});gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDUnlockIngredientsObjects1Objects = Hashtable.newFrom({"UnlockIngredients": gdjs.MenuCode.GDUnlockIngredientsObjects1});gdjs.MenuCode.eventsList2 = function(runtimeScene) {
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("UnlockIngredients"), gdjs.MenuCode.GDUnlockIngredientsObjects1);
+
+gdjs.MenuCode.condition0IsTrue_0.val = false;
+{
+gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDUnlockIngredientsObjects1Objects, runtimeScene, true, false);
+}if (gdjs.MenuCode.condition0IsTrue_0.val) {
+/* Reuse gdjs.MenuCode.GDUnlockIngredientsObjects1 */
+{for(var i = 0, len = gdjs.MenuCode.GDUnlockIngredientsObjects1.length ;i < len;++i) {
+    gdjs.MenuCode.GDUnlockIngredientsObjects1[i].setAnimation(2);
+}
+}{for(var i = 0, len = gdjs.MenuCode.GDUnlockIngredientsObjects1.length ;i < len;++i) {
+    gdjs.MenuCode.GDUnlockIngredientsObjects1[i].setY(310);
+}
+}{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Unlock Ingredients", false);
+}}
+
+}
+
+
+};gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDUnlockIngredientsObjects1Objects = Hashtable.newFrom({"UnlockIngredients": gdjs.MenuCode.GDUnlockIngredientsObjects1});gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDMusicToggleObjects1Objects = Hashtable.newFrom({"MusicToggle": gdjs.MenuCode.GDMusicToggleObjects1});gdjs.MenuCode.eventsList3 = function(runtimeScene) {
 
 {
 
@@ -133,7 +156,7 @@ if (gdjs.MenuCode.condition1IsTrue_0.val) {
 }
 
 
-};gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDQuitObjects1Objects = Hashtable.newFrom({"Quit": gdjs.MenuCode.GDQuitObjects1});gdjs.MenuCode.eventsList3 = function(runtimeScene) {
+};gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDQuitObjects1Objects = Hashtable.newFrom({"Quit": gdjs.MenuCode.GDQuitObjects1});gdjs.MenuCode.eventsList4 = function(runtimeScene) {
 
 {
 
@@ -148,7 +171,7 @@ gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonPressed(
 }
 
 
-};gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDQuitObjects1Objects = Hashtable.newFrom({"Quit": gdjs.MenuCode.GDQuitObjects1});gdjs.MenuCode.eventsList4 = function(runtimeScene) {
+};gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDQuitObjects1Objects = Hashtable.newFrom({"Quit": gdjs.MenuCode.GDQuitObjects1});gdjs.MenuCode.eventsList5 = function(runtimeScene) {
 
 {
 
@@ -276,6 +299,68 @@ gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.M
 
 {
 
+gdjs.copyArray(runtimeScene.getObjects("UnlockIngredients"), gdjs.MenuCode.GDUnlockIngredientsObjects1);
+
+gdjs.MenuCode.condition0IsTrue_0.val = false;
+gdjs.MenuCode.condition1IsTrue_0.val = false;
+{
+gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDUnlockIngredientsObjects1Objects, runtimeScene, true, false);
+}if ( gdjs.MenuCode.condition0IsTrue_0.val ) {
+{
+{gdjs.MenuCode.conditionTrue_1 = gdjs.MenuCode.condition1IsTrue_0;
+gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9448364);
+}
+}}
+if (gdjs.MenuCode.condition1IsTrue_0.val) {
+/* Reuse gdjs.MenuCode.GDUnlockIngredientsObjects1 */
+{for(var i = 0, len = gdjs.MenuCode.GDUnlockIngredientsObjects1.length ;i < len;++i) {
+    gdjs.MenuCode.GDUnlockIngredientsObjects1[i].setAnimation(1);
+}
+}{for(var i = 0, len = gdjs.MenuCode.GDUnlockIngredientsObjects1.length ;i < len;++i) {
+    gdjs.MenuCode.GDUnlockIngredientsObjects1[i].setY(307);
+}
+}}
+
+}
+
+
+{
+
+
+gdjs.MenuCode.condition0IsTrue_0.val = false;
+{
+gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonPressed(runtimeScene, "Left");
+}if (gdjs.MenuCode.condition0IsTrue_0.val) {
+
+{ //Subevents
+gdjs.MenuCode.eventsList2(runtimeScene);} //End of subevents
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("UnlockIngredients"), gdjs.MenuCode.GDUnlockIngredientsObjects1);
+
+gdjs.MenuCode.condition0IsTrue_0.val = false;
+{
+gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDUnlockIngredientsObjects1Objects, runtimeScene, true, true);
+}if (gdjs.MenuCode.condition0IsTrue_0.val) {
+/* Reuse gdjs.MenuCode.GDUnlockIngredientsObjects1 */
+{for(var i = 0, len = gdjs.MenuCode.GDUnlockIngredientsObjects1.length ;i < len;++i) {
+    gdjs.MenuCode.GDUnlockIngredientsObjects1[i].setAnimation(0);
+}
+}{for(var i = 0, len = gdjs.MenuCode.GDUnlockIngredientsObjects1.length ;i < len;++i) {
+    gdjs.MenuCode.GDUnlockIngredientsObjects1[i].setY(296);
+}
+}}
+
+}
+
+
+{
+
 gdjs.copyArray(runtimeScene.getObjects("MusicToggle"), gdjs.MenuCode.GDMusicToggleObjects1);
 
 gdjs.MenuCode.condition0IsTrue_0.val = false;
@@ -284,7 +369,7 @@ gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.M
 }if (gdjs.MenuCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.MenuCode.eventsList2(runtimeScene);} //End of subevents
+gdjs.MenuCode.eventsList3(runtimeScene);} //End of subevents
 }
 
 }
@@ -336,7 +421,7 @@ gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.M
 }
 }
 { //Subevents
-gdjs.MenuCode.eventsList3(runtimeScene);} //End of subevents
+gdjs.MenuCode.eventsList4(runtimeScene);} //End of subevents
 }
 
 }
@@ -413,7 +498,7 @@ gdjs.MenuCode.GDInstructionsTitleObjects2.length = 0;
 gdjs.MenuCode.GDUnlockIngredientsObjects1.length = 0;
 gdjs.MenuCode.GDUnlockIngredientsObjects2.length = 0;
 
-gdjs.MenuCode.eventsList4(runtimeScene);
+gdjs.MenuCode.eventsList5(runtimeScene);
 return;
 
 }
