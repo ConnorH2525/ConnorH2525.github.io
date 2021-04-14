@@ -159,15 +159,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "Chocolate-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Chocolate-1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "Food Sprites/Chocolate-1.png",
         "kind": "image",
         "metadata": "",
@@ -244,15 +235,6 @@
         "kind": "image",
         "metadata": "",
         "name": "NewObject-1-3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Chocolate-1-0-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Chocolate-1-0-1.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -508,15 +490,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "btn-start-normal-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "btn-start-normal-1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "btn-start-hover-1-1.png",
         "kind": "image",
         "metadata": "",
@@ -550,24 +523,6 @@
         "name": "btn-start-pressed-1-1.png",
         "smoothed": true,
         "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "NewObject9-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewObject9-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "NewObject9-1-0.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewObject9-1-0.png",
-        "smoothed": true,
-        "userAdded": true
       },
       {
         "alwaysLoaded": false,
@@ -660,37 +615,10 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "NewObject13-1-0.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewObject13-1-0.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Tomato-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Tomato-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "Knife-1.png",
         "kind": "image",
         "metadata": "",
         "name": "Knife-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Table2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Table2.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -817,15 +745,6 @@
         "kind": "image",
         "metadata": "",
         "name": "Screen.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Table1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Table1.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -993,15 +912,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "NewObject13-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewObject13-1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "GameOverMenu.png",
         "kind": "image",
         "metadata": "",
@@ -1092,15 +1002,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "NewObject-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewObject-1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "unlock-normal.png",
         "kind": "image",
         "metadata": "",
@@ -1150,6 +1051,400 @@
         "kind": "image",
         "metadata": "",
         "name": "unlock-pressed-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "SourceSansPro-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "SourceSansPro-Regular.ttf",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Order screen.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "Order screen.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Order screen.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Order screen.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sound on.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sound on.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sound off.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sound off.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Back.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Back.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Restart.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Restart.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Menu.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Menu.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Continue.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Continue.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Lock.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Lock.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Unlock.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Unlock.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Save.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Save.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Tomato-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tomato-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Banana-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Banana-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Pineapple-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pineapple-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Chocolate-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Chocolate-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Play.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Play.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "btn-start-normal-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "btn-start-normal-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "leaderboards.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "leaderboards.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject9-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject9-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Unlock ingredients.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Unlock ingredients.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject13-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject13-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject9-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject9-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject13-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject13-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Tomato-sliced.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tomato-sliced.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Table2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Table2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Table1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Table1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "banana-sliced.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "banana-sliced.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Play (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Play (2).png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Leaderboard-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Leaderboard-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Tomato-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tomato-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Chocolate-1-0-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Chocolate-1-0-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Pineapple-sliced.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pineapple-sliced.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Food3_2-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Food3_2-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Chocolate-sliced.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Chocolate-sliced.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Life-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Life-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Leaderboard-hover-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Leaderboard-hover-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Leaderboard-hover-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Leaderboard-hover-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Play-pressed-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Play-pressed-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Leaderboards-pressed-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Leaderboards-pressed-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UnlockIngredients-hover-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UnlockIngredients-hover-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Unlock-Ingredients-pressed-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Unlock-Ingredients-pressed-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Play-hover.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Play-hover.png",
         "smoothed": true,
         "userAdded": true
       }
@@ -1237,18 +1532,18 @@
   ],
   "layouts": [
     {
-      "b": 226,
+      "b": 255,
       "disableInputWhenNotFocused": true,
       "mangledName": "Menu",
       "name": "Menu",
       "oglFOV": 90,
       "oglZFar": 500,
       "oglZNear": 1,
-      "r": 74,
+      "r": 0,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "Menu",
-      "v": 144,
+      "v": 153,
       "uiSettings": {
         "grid": false,
         "gridB": 255,
@@ -1261,7 +1556,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.82
+        "zoomFactor": 0.98
       },
       "objectsGroups": [],
       "variables": [
@@ -1307,47 +1602,31 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 87,
+          "height": 135,
           "layer": "",
           "locked": false,
           "name": "Title",
           "persistentUuid": "c7053bb0-914e-4574-aeaa-9e134bc751d4",
-          "width": 517,
-          "x": 266,
-          "y": 96,
-          "zOrder": 4,
+          "width": 162,
+          "x": 38,
+          "y": 41,
+          "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 200,
           "layer": "",
           "locked": false,
           "name": "Screen",
           "persistentUuid": "9d5592d1-e27c-4f70-9f2f-36c9a04209d3",
-          "width": 0,
-          "x": 5,
-          "y": -15,
+          "width": 200,
+          "x": 15,
+          "y": 0,
           "zOrder": 6,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "DevText",
-          "persistentUuid": "6278f3d7-2e9e-4a71-b8ae-8d18e86d36e9",
-          "width": 0,
-          "x": 24,
-          "y": 39,
-          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1450,14 +1729,14 @@
         },
         {
           "angle": 0,
-          "customSize": true,
+          "customSize": false,
           "height": 103,
           "layer": "",
           "locked": false,
           "name": "Play",
           "persistentUuid": "edf330c4-8955-4139-b545-cbe5559e8517",
           "width": 175,
-          "x": 326,
+          "x": 298,
           "y": 290,
           "zOrder": 15,
           "numberProperties": [],
@@ -1482,15 +1761,15 @@
         },
         {
           "angle": 0,
-          "customSize": true,
+          "customSize": false,
           "height": 75,
           "layer": "",
           "locked": false,
           "name": "Leaderboards",
           "persistentUuid": "9fca0b3b-1853-4799-920f-69b92c9c688d",
           "width": 165,
-          "x": 513,
-          "y": 296,
+          "x": 510,
+          "y": 280,
           "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
@@ -1531,14 +1810,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 42,
+          "height": 60,
           "layer": "",
           "locked": false,
           "name": "NewObject4",
           "persistentUuid": "b9e79ae6-a7db-4a9a-8e8e-7e6874d02c94",
-          "width": 45,
-          "x": 674,
-          "y": 417,
+          "width": 60,
+          "x": 666,
+          "y": 406,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -1579,14 +1858,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 44,
+          "height": 30,
           "layer": "",
           "locked": false,
           "name": "NewObject11",
           "persistentUuid": "7003ffc5-0712-405c-93df-cdb1baf94c1f",
-          "width": 48,
-          "x": 431,
-          "y": 552,
+          "width": 30,
+          "x": 442,
+          "y": 554,
           "zOrder": 23,
           "numberProperties": [],
           "stringProperties": [],
@@ -1610,13 +1889,13 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 50,
           "layer": "",
           "locked": false,
           "name": "MusicToggle",
           "persistentUuid": "4dedcd87-6dc8-4670-91e1-b4ee520d4677",
-          "width": 0,
+          "width": 50,
           "x": 724,
           "y": 9,
           "zOrder": 26,
@@ -1642,15 +1921,15 @@
         },
         {
           "angle": 0,
-          "customSize": true,
+          "customSize": false,
           "height": 75,
           "layer": "",
           "locked": false,
           "name": "UnlockIngredients",
           "persistentUuid": "b169a507-7dd9-4928-a56e-ee2ea812e77e",
           "width": 165,
-          "x": 143,
-          "y": 298,
+          "x": 130,
+          "y": 280,
           "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
@@ -1667,12 +1946,12 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "Table2",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
@@ -1706,12 +1985,12 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "Table1",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
@@ -1746,9 +2025,9 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "\nSlice, Mash, or Peel",
-          "font": "DotGothic16-Regular.ttf",
-          "characterSize": 50,
+          "string": "Slice, Mash, or Peel",
+          "font": "SourceSansPro-Regular.ttf",
+          "characterSize": 40,
           "color": {
             "b": 0,
             "g": 0,
@@ -1769,11 +2048,11 @@
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "play-normal.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Play (2).png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1786,50 +2065,23 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 72.85710144042969,
-                            "y": 0.7142860293388367
-                          },
-                          {
-                            "x": 79.64289855957031,
-                            "y": 21.428600311279297
-                          },
-                          {
-                            "x": 78.21430206298828,
-                            "y": 37.3213996887207
-                          },
-                          {
-                            "x": 0.7142860293388367,
-                            "y": 39.10710144042969
-                          },
-                          {
-                            "x": 1.428570032119751,
-                            "y": 21.25
-                          },
-                          {
-                            "x": 10.714300155639648,
-                            "y": 0.5357139706611633
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     }
                   ]
                 }
               ]
             },
             {
-              "name": "btn-start-hover",
+              "name": "Leaderboard-hover",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "play-hover.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Play-hover.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1842,50 +2094,23 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 72.85710144042969,
-                            "y": 0.7142860293388367
-                          },
-                          {
-                            "x": 79.64289855957031,
-                            "y": 21.428600311279297
-                          },
-                          {
-                            "x": 78.21430206298828,
-                            "y": 37.3213996887207
-                          },
-                          {
-                            "x": 0.7142860293388367,
-                            "y": 39.10710144042969
-                          },
-                          {
-                            "x": 1.428570032119751,
-                            "y": 21.25
-                          },
-                          {
-                            "x": 10.714300155639648,
-                            "y": 0.5357139706611633
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     }
                   ]
                 }
               ]
             },
             {
-              "name": "btn-start-pressed",
+              "name": "Play-pressed",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "play-pressed.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Play-pressed-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1898,34 +2123,7 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 72.85710144042969,
-                            "y": 0.7142860293388367
-                          },
-                          {
-                            "x": 79.64289855957031,
-                            "y": 21.428600311279297
-                          },
-                          {
-                            "x": 78.21430206298828,
-                            "y": 37.3213996887207
-                          },
-                          {
-                            "x": 0.7142860293388367,
-                            "y": 39.10710144042969
-                          },
-                          {
-                            "x": 1.428570032119751,
-                            "y": 21.25
-                          },
-                          {
-                            "x": 10.714300155639648,
-                            "y": 0.5357139706611633
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -1951,7 +2149,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Screen.png",
+                      "image": "Order screen.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1975,25 +2173,6 @@
         {
           "bold": false,
           "italic": false,
-          "name": "DevText",
-          "smoothed": true,
-          "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "behaviors": [],
-          "string": "Dev Tools:\n\nLShift+RShift\n\n+Up - Increase Score/Speed\n+Right - Toggle Vulnerability",
-          "font": "",
-          "characterSize": 16,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          }
-        },
-        {
-          "bold": false,
-          "italic": false,
           "name": "Instructions",
           "smoothed": true,
           "tags": "",
@@ -2002,7 +2181,7 @@
           "variables": [],
           "behaviors": [],
           "string": "\nComplete the order on the screen above\nby dragging the ingredient to:",
-          "font": "",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 20,
           "color": {
             "b": 0,
@@ -2021,7 +2200,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Slice\n\nMash\n\nPeel\n\nOr add straight to the pizza",
-          "font": "",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 20,
           "color": {
             "b": 0,
@@ -2199,11 +2378,11 @@
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "leaderboard-normal.png",
+                      "image": "Leaderboard-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2228,11 +2407,11 @@
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "leaderboard-hover.png",
+                      "image": "Leaderboard-hover-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2252,16 +2431,16 @@
               ]
             },
             {
-              "name": "Leaderboards-1-0",
+              "name": "Leaderboards-pressed",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "leaderboard-pressed.png",
+                      "image": "Leaderboards-pressed-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2293,7 +2472,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Music",
-          "font": "",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 13,
@@ -2331,7 +2510,7 @@
           "variables": [],
           "behaviors": [],
           "string": "QUIT X",
-          "font": "",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 25,
           "color": {
             "b": 53,
@@ -2357,7 +2536,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Tomato-1.png",
+                      "image": "Tomato-sliced.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2506,7 +2685,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Example",
-          "font": "",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 16,
           "color": {
             "b": 0,
@@ -2532,7 +2711,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "MusicOn.png",
+                      "image": "Sound on.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2561,7 +2740,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "MusicOff.png",
+                      "image": "Sound off.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2593,7 +2772,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Instructions",
-          "font": "",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 25,
           "color": {
             "b": 0,
@@ -2615,11 +2794,11 @@
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "unlock-normal.png",
+                      "image": "NewObject13-1-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2639,7 +2818,7 @@
               ]
             },
             {
-              "name": "UnlockIngredients",
+              "name": "UnlockIngredients-hover",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -2648,7 +2827,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "unlock_hover.png",
+                      "image": "UnlockIngredients-hover-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2668,7 +2847,7 @@
               ]
             },
             {
-              "name": "unlock-pressed",
+              "name": "Unlock-Ingredients-pressed",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -2677,7 +2856,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "unlock-pressed-1.png",
+                      "image": "Unlock-Ingredients-pressed-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2748,7 +2927,7 @@
               "parameters": [
                 "Play",
                 "=",
-                "307"
+                "300"
               ],
               "subInstructions": []
             }
@@ -2822,7 +3001,7 @@
                   "parameters": [
                     "Play",
                     "=",
-                    "310"
+                    "305"
                   ],
                   "subInstructions": []
                 },
@@ -2938,7 +3117,7 @@
               "parameters": [
                 "Leaderboards",
                 "=",
-                "307"
+                "290"
               ],
               "subInstructions": []
             }
@@ -3004,7 +3183,7 @@
                   "parameters": [
                     "Leaderboards",
                     "=",
-                    "310"
+                    "295"
                   ],
                   "subInstructions": []
                 },
@@ -3065,7 +3244,7 @@
               "parameters": [
                 "Leaderboards",
                 "=",
-                "296"
+                "280"
               ],
               "subInstructions": []
             }
@@ -3120,7 +3299,7 @@
               "parameters": [
                 "UnlockIngredients",
                 "=",
-                "307"
+                "290"
               ],
               "subInstructions": []
             }
@@ -3186,7 +3365,7 @@
                   "parameters": [
                     "UnlockIngredients",
                     "=",
-                    "310"
+                    "295"
                   ],
                   "subInstructions": []
                 },
@@ -3247,7 +3426,7 @@
               "parameters": [
                 "UnlockIngredients",
                 "=",
-                "296"
+                "280"
               ],
               "subInstructions": []
             }
@@ -3262,15 +3441,37 @@
             {
               "type": {
                 "inverted": false,
-                "value": "SourisSurObjet"
+                "value": "BuiltinCommonInstructions::Or"
               },
-              "parameters": [
-                "MusicToggle",
-                "",
-                "",
-                ""
-              ],
-              "subInstructions": []
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "MusicToggle",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Sound",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ]
             }
           ],
           "actions": [],
@@ -3514,18 +3715,18 @@
       "behaviorsSharedData": []
     },
     {
-      "b": 226,
+      "b": 255,
       "disableInputWhenNotFocused": true,
       "mangledName": "Gameplay",
       "name": "Gameplay",
       "oglFOV": 90,
       "oglZFar": 500,
       "oglZNear": 1,
-      "r": 74,
+      "r": 0,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 144,
+      "v": 153,
       "uiSettings": {
         "grid": false,
         "gridB": 255,
@@ -3538,7 +3739,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.6679999999999999
+        "zoomFactor": 0.8680000000000001
       },
       "objectsGroups": [
         {
@@ -3670,7 +3871,7 @@
           "persistentUuid": "a97a5231-0d40-4845-a401-f49b0590cb43",
           "width": 0,
           "x": 600,
-          "y": 5,
+          "y": 10,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -3742,15 +3943,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 200,
           "layer": "",
           "locked": false,
           "name": "OrderDisplay",
           "persistentUuid": "dfaf227a-a019-481f-a7af-e6fa312586f9",
-          "width": 0,
-          "x": 5,
-          "y": -15,
+          "width": 200,
+          "x": 15,
+          "y": 0,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -3813,7 +4014,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Tomato.png",
+                      "image": "Tomato-1-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3829,24 +4030,40 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 32,
-                            "y": 5.5
+                            "x": 97.5,
+                            "y": 36.5
                           },
                           {
-                            "x": 52,
-                            "y": 16.5
+                            "x": 104.5,
+                            "y": 61
                           },
                           {
-                            "x": 55,
-                            "y": 48.5
+                            "x": 89.5,
+                            "y": 96.5
                           },
                           {
                             "x": 16,
-                            "y": 46
+                            "y": 99
                           },
                           {
-                            "x": 8,
-                            "y": 25
+                            "x": 2,
+                            "y": 78.25
+                          },
+                          {
+                            "x": 5,
+                            "y": 39.75
+                          },
+                          {
+                            "x": 28.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 42,
+                            "y": 1.5
+                          },
+                          {
+                            "x": 72,
+                            "y": 13.5
                           }
                         ]
                       ]
@@ -3875,7 +4092,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Tomato.png",
+                      "image": "Tomato-1-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3910,7 +4127,7 @@
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
@@ -4036,7 +4253,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Banana.png",
+                      "image": "Banana-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4052,40 +4269,40 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 62.118099212646484,
-                            "y": 1.9444400072097778
+                            "x": 96.78571319580078,
+                            "y": 8.214285850524902
                           },
                           {
-                            "x": 68.78469848632812,
-                            "y": 28.33329963684082
-                          },
-                          {
-                            "x": 58.22919845581055,
-                            "y": 52.777801513671875
-                          },
-                          {
-                            "x": 21.5625,
+                            "x": 102.5,
                             "y": 60
                           },
                           {
-                            "x": 2.1180601119995117,
-                            "y": 55.277801513671875
+                            "x": 83.92857360839844,
+                            "y": 88.21428680419922
                           },
                           {
-                            "x": 2.673609972000122,
-                            "y": 48.055599212646484
+                            "x": 39.64285659790039,
+                            "y": 98.21428680419922
                           },
                           {
-                            "x": 27.118099212646484,
-                            "y": 45
+                            "x": 1.7857142686843872,
+                            "y": 90.71428680419922
                           },
                           {
-                            "x": 50.45140075683594,
-                            "y": 27.777799606323242
+                            "x": 4.642857074737549,
+                            "y": 79.64286041259766
                           },
                           {
-                            "x": 55.45140075683594,
-                            "y": 3.333329916000366
+                            "x": 41.78571319580078,
+                            "y": 72.14286041259766
+                          },
+                          {
+                            "x": 70.35713958740234,
+                            "y": 55
+                          },
+                          {
+                            "x": 88.21428680419922,
+                            "y": 10.714285850524902
                           }
                         ]
                       ]
@@ -4114,7 +4331,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Banana.png",
+                      "image": "Banana-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4149,11 +4366,11 @@
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Banana-1.png.png",
+                      "image": "Chocolate-1-0-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4275,7 +4492,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Pineapple.png",
+                      "image": "Pineapple-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4291,36 +4508,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 50.45140075683594,
-                            "y": 20
+                            "x": 25.35714340209961,
+                            "y": 1.7857142686843872
                           },
                           {
-                            "x": 58.22919845581055,
-                            "y": 50.83330154418945
+                            "x": 78.21428680419922,
+                            "y": 1.7857142686843872
                           },
                           {
-                            "x": 49.340301513671875,
-                            "y": 68.61109924316406
+                            "x": 74.64286041259766,
+                            "y": 99.64286041259766
                           },
                           {
-                            "x": 22.673599243164062,
-                            "y": 68.05560302734375
-                          },
-                          {
-                            "x": 8.784720420837402,
-                            "y": 52.222198486328125
-                          },
-                          {
-                            "x": 22.118099212646484,
-                            "y": 19.722200393676758
-                          },
-                          {
-                            "x": 17.673599243164062,
-                            "y": 0.8333330154418945
-                          },
-                          {
-                            "x": 46.5625,
-                            "y": 2.5
+                            "x": 26.071428298950195,
+                            "y": 100.35713958740234
                           }
                         ]
                       ]
@@ -4349,7 +4550,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Pineapple.png",
+                      "image": "Pineapple-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4384,11 +4585,11 @@
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Pineapple-1.png.png",
+                      "image": "Food3_2-1-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4510,7 +4711,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Chocolate.png",
+                      "image": "Chocolate-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4526,20 +4727,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 14,
-                            "y": 8.75
+                            "x": 59.5,
+                            "y": 2.5
                           },
                           {
-                            "x": 57,
-                            "y": 7.75
+                            "x": 104.5,
+                            "y": 25.5
                           },
                           {
-                            "x": 57,
-                            "y": 59.25
+                            "x": 45.5,
+                            "y": 104.5
                           },
                           {
-                            "x": 14.5,
-                            "y": 58.75
+                            "x": -0.5,
+                            "y": 70.5
                           }
                         ]
                       ]
@@ -4568,7 +4769,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Chocolate.png",
+                      "image": "Chocolate-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4603,11 +4804,11 @@
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Chocolate-1.png.png",
+                      "image": "NewObject-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4992,8 +5193,8 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "\nScore: 0",
-          "font": "DotGothic16-Regular.ttf",
+          "string": "Score: 0",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 13,
@@ -5019,7 +5220,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Screen.png",
+                      "image": "Order screen.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5054,11 +5255,11 @@
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Life.png",
+                      "image": "Life-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5207,7 +5408,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Vulnerability: OFF",
-          "font": "",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 20,
           "color": {
             "b": 0,
@@ -5265,7 +5466,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Game Over",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 40,
           "color": {
             "b": 0,
@@ -5284,7 +5485,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Score: ",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 255,
@@ -5310,7 +5511,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Enter Name",
-          "font": "",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 255,
@@ -5329,7 +5530,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Score Saved",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 33,
@@ -5355,7 +5556,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "SaveScore-1.png",
+                      "image": "Save.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5394,7 +5595,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "RestartButton-1.png",
+                      "image": "Restart.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5433,7 +5634,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "MenuButton-1.png",
+                      "image": "Menu.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5465,7 +5666,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Paused",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 40,
           "color": {
             "b": 35,
@@ -5491,7 +5692,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "ContinueButton-1-0.png",
+                      "image": "Continue.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5993,7 +6194,7 @@
               "parameters": [
                 "Foods",
                 "=",
-                "2.5"
+                "1.5"
               ],
               "subInstructions": []
             },
@@ -6027,25 +6228,13 @@
             {
               "type": {
                 "inverted": false,
-                "value": "ChangeScale"
-              },
-              "parameters": [
-                "FoodStates",
-                "=",
-                "1.5"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
                 "value": "Create"
               },
               "parameters": [
                 "",
                 "Progress",
                 "OrderDisplay.X()",
-                "OrderDisplay.Y()+197",
+                "OrderDisplay.Y()+193",
                 ""
               ],
               "subInstructions": []
@@ -6283,6 +6472,18 @@
                     {
                       "type": {
                         "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "Life",
+                        "=",
+                        "0.5"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
                         "value": "ModVarScene"
                       },
                       "parameters": [
@@ -6367,7 +6568,7 @@
                       "parameters": [
                         "FoodStates",
                         "=",
-                        "2"
+                        "1.5"
                       ],
                       "subInstructions": []
                     },
@@ -6424,7 +6625,7 @@
                       "parameters": [
                         "Score",
                         "=",
-                        "\"\nScore: \" + VariableString(Score)"
+                        "\"Score: \" + VariableString(Score)"
                       ],
                       "subInstructions": []
                     }
@@ -6607,6 +6808,18 @@
                     {
                       "type": {
                         "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "Life",
+                        "=",
+                        "0.5"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
                         "value": "ModVarScene"
                       },
                       "parameters": [
@@ -6691,7 +6904,7 @@
                       "parameters": [
                         "FoodStates",
                         "=",
-                        "2"
+                        "1.5"
                       ],
                       "subInstructions": []
                     },
@@ -6737,7 +6950,7 @@
                       "parameters": [
                         "Score",
                         "=",
-                        "\"\nScore: \" + VariableString(Score)"
+                        "\"Score: \" + VariableString(Score)"
                       ],
                       "subInstructions": []
                     },
@@ -6931,6 +7144,18 @@
                     {
                       "type": {
                         "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "Life",
+                        "=",
+                        "0.5"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
                         "value": "ModVarScene"
                       },
                       "parameters": [
@@ -7015,7 +7240,7 @@
                       "parameters": [
                         "FoodStates",
                         "=",
-                        "2"
+                        "1.5"
                       ],
                       "subInstructions": []
                     },
@@ -7061,7 +7286,7 @@
                       "parameters": [
                         "Score",
                         "=",
-                        "\"\nScore: \" + VariableString(Score)"
+                        "\"Score: \" + VariableString(Score)"
                       ],
                       "subInstructions": []
                     },
@@ -7255,6 +7480,18 @@
                     {
                       "type": {
                         "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "Life",
+                        "=",
+                        "0.5"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
                         "value": "ResetTimer"
                       },
                       "parameters": [
@@ -7339,7 +7576,7 @@
                       "parameters": [
                         "FoodStates",
                         "=",
-                        "2"
+                        "1.5"
                       ],
                       "subInstructions": []
                     },
@@ -7385,7 +7622,7 @@
                       "parameters": [
                         "Score",
                         "=",
-                        "\"\nScore: \" + VariableString(Score)"
+                        "\"Score: \" + VariableString(Score)"
                       ],
                       "subInstructions": []
                     },
@@ -7766,6 +8003,42 @@
                 {
                   "type": {
                     "inverted": false,
+                    "value": "ChangeScale"
+                  },
+                  "parameters": [
+                    "SaveScore",
+                    "=",
+                    "0.01"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeScale"
+                  },
+                  "parameters": [
+                    "RestartButton",
+                    "=",
+                    "0.01"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeScale"
+                  },
+                  "parameters": [
+                    "MenuButton",
+                    "=",
+                    "0.01"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
                     "value": "ChangeTimeScale"
                   },
                   "parameters": [
@@ -7911,6 +8184,18 @@
             {
               "type": {
                 "inverted": false,
+                "value": "ChangeScale"
+              },
+              "parameters": [
+                "Life",
+                "=",
+                "0.5"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
                 "value": "ModVarScene"
               },
               "parameters": [
@@ -7937,7 +8222,7 @@
               "parameters": [
                 "Progress",
                 "=",
-                "TimerElapsedTime(\"OrderTimeLimit\")*24"
+                "TimerElapsedTime(\"OrderTimeLimit\")*20"
               ],
               "subInstructions": []
             }
@@ -8186,6 +8471,42 @@
                 "RestartButton",
                 "=",
                 "100"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeScale"
+              },
+              "parameters": [
+                "RestartButton",
+                "=",
+                "0.01"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeScale"
+              },
+              "parameters": [
+                "MenuButton",
+                "=",
+                "0.01"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeScale"
+              },
+              "parameters": [
+                "ContinueButton",
+                "=",
+                "0.01"
               ],
               "subInstructions": []
             },
@@ -10614,7 +10935,7 @@
                   "parameters": [
                     "Score",
                     "=",
-                    "\"\nScore: \" + VariableString(Score)"
+                    "\"Score: \" + VariableString(Score)"
                   ],
                   "subInstructions": []
                 }
@@ -10744,7 +11065,7 @@
                 "",
                 "Vulnerability",
                 "630",
-                "76",
+                "60",
                 ""
               ],
               "subInstructions": []
@@ -10855,18 +11176,18 @@
       "behaviorsSharedData": []
     },
     {
-      "b": 226,
+      "b": 255,
       "disableInputWhenNotFocused": true,
       "mangledName": "Leaderboard",
       "name": "Leaderboard",
       "oglFOV": 90,
       "oglZFar": 500,
       "oglZNear": 1,
-      "r": 74,
+      "r": 0,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "Leaderboard",
-      "v": 144,
+      "v": 153,
       "uiSettings": {
         "grid": false,
         "gridB": 255,
@@ -11254,13 +11575,13 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 75,
           "layer": "",
           "locked": false,
           "name": "BackButton",
           "persistentUuid": "95ee651a-2546-4382-8f9b-e2509f28d9e2",
-          "width": 0,
+          "width": 75,
           "x": 37,
           "y": 41,
           "zOrder": 24,
@@ -11281,7 +11602,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Leaderboard",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 50,
           "color": {
             "b": 0,
@@ -11299,8 +11620,8 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "\nTop 10",
-          "font": "DotGothic16-Regular.ttf",
+          "string": "Top 10",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 40,
           "color": {
             "b": 0,
@@ -11358,7 +11679,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Player1",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 35,
@@ -11377,7 +11698,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Player1",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 35,
@@ -11396,7 +11717,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Player1",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 35,
@@ -11415,7 +11736,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Player1",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 35,
@@ -11434,7 +11755,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Player1",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 35,
@@ -11453,7 +11774,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Player1",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 35,
@@ -11472,7 +11793,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Player1",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 35,
@@ -11491,7 +11812,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Player1",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 35,
@@ -11510,7 +11831,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Player1",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 35,
@@ -11529,7 +11850,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Player1",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 35,
@@ -11548,7 +11869,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Player1",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 35,
@@ -11567,7 +11888,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Player1",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 35,
@@ -11586,7 +11907,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Player1",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 35,
@@ -11605,7 +11926,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Player1",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 35,
@@ -11624,7 +11945,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Player1",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 35,
@@ -11643,7 +11964,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Player1",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 35,
@@ -11662,7 +11983,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Player1",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 35,
@@ -11681,7 +12002,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Player1",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 35,
@@ -11700,7 +12021,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Player1",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 35,
@@ -11719,7 +12040,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Player1",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 30,
           "color": {
             "b": 35,
@@ -11745,7 +12066,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "BackButton-1.png",
+                      "image": "Back.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12401,18 +12722,18 @@
       "behaviorsSharedData": []
     },
     {
-      "b": 226,
+      "b": 255,
       "disableInputWhenNotFocused": true,
       "mangledName": "Unlock_32Ingredients",
       "name": "Unlock Ingredients",
       "oglFOV": 90,
       "oglZFar": 500,
       "oglZNear": 1,
-      "r": 74,
+      "r": 0,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 144,
+      "v": 153,
       "uiSettings": {
         "grid": false,
         "gridB": 255,
@@ -12425,7 +12746,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 1
+        "zoomFactor": 1.02
       },
       "objectsGroups": [],
       "variables": [
@@ -12509,13 +12830,13 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 75,
           "layer": "",
           "locked": false,
           "name": "BackButton",
           "persistentUuid": "e7255ff1-2483-45f3-84b2-b23e687e7c63",
-          "width": 0,
+          "width": 75,
           "x": 27,
           "y": 33,
           "zOrder": 24,
@@ -12541,15 +12862,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 84,
           "layer": "",
           "locked": false,
           "name": "Food1",
           "persistentUuid": "2e32bb13-beb8-4cb2-9dd5-4a336a09ab52",
-          "width": 0,
-          "x": 92,
-          "y": 189,
+          "width": 84,
+          "x": 160,
+          "y": 170,
           "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
@@ -12557,15 +12878,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 84,
           "layer": "",
           "locked": false,
           "name": "Food2",
           "persistentUuid": "909f33eb-5001-4a5d-ad97-958804fc2847",
-          "width": 0,
-          "x": 87,
-          "y": 274,
+          "width": 84,
+          "x": 160,
+          "y": 270,
           "zOrder": 27,
           "numberProperties": [],
           "stringProperties": [],
@@ -12573,15 +12894,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 84,
           "layer": "",
           "locked": false,
           "name": "Food3",
           "persistentUuid": "ede79aa7-d530-4264-905c-dc80d9f62ee4",
-          "width": 0,
-          "x": 93,
-          "y": 374,
+          "width": 84,
+          "x": 160,
+          "y": 370,
           "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
@@ -12589,15 +12910,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 84,
           "layer": "",
           "locked": false,
           "name": "Food4",
           "persistentUuid": "97307772-e612-414e-89e1-c05c6f16ca6a",
-          "width": 0,
-          "x": 90,
-          "y": 484,
+          "width": 84,
+          "x": 160,
+          "y": 480,
           "zOrder": 29,
           "numberProperties": [],
           "stringProperties": [],
@@ -12605,15 +12926,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 75,
           "layer": "",
           "locked": false,
           "name": "Lock1",
           "persistentUuid": "1128481b-8cbf-4589-bf04-96d23a2ba392",
-          "width": 0,
-          "x": 30,
-          "y": 180,
+          "width": 75,
+          "x": 90,
+          "y": 190,
           "zOrder": 30,
           "numberProperties": [],
           "stringProperties": [],
@@ -12621,15 +12942,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 75,
           "layer": "",
           "locked": false,
           "name": "Lock2",
           "persistentUuid": "ca2f8dca-5f6a-486b-ba2c-f244bdfda84b",
-          "width": 0,
-          "x": 30,
-          "y": 280,
+          "width": 75,
+          "x": 90,
+          "y": 290,
           "zOrder": 33,
           "numberProperties": [],
           "stringProperties": [],
@@ -12637,15 +12958,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 75,
           "layer": "",
           "locked": false,
           "name": "Lock3",
           "persistentUuid": "97e351f7-18cc-462a-9ba8-795b48e0fbdc",
-          "width": 0,
-          "x": 31,
-          "y": 380,
+          "width": 75,
+          "x": 91,
+          "y": 390,
           "zOrder": 34,
           "numberProperties": [],
           "stringProperties": [],
@@ -12653,16 +12974,80 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 75,
           "layer": "",
           "locked": false,
           "name": "Lock4",
           "persistentUuid": "1cbc5dd3-d93b-4695-8b43-53aca2ceaf83",
-          "width": 0,
-          "x": 30,
-          "y": 480,
+          "width": 75,
+          "x": 90,
+          "y": 490,
           "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 75,
+          "layer": "",
+          "locked": false,
+          "name": "Lock5",
+          "persistentUuid": "bcecd5ae-360c-4a72-b746-7dd033f37bd9",
+          "width": 75,
+          "x": 360,
+          "y": 190,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 75,
+          "layer": "",
+          "locked": false,
+          "name": "Lock6",
+          "persistentUuid": "25bdbbe7-a731-4113-bccb-fcd002ce7442",
+          "width": 75,
+          "x": 360,
+          "y": 290,
+          "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 75,
+          "layer": "",
+          "locked": false,
+          "name": "Lock7",
+          "persistentUuid": "1a2ba162-7fa5-4c34-bf6d-f9b0b9c0b735",
+          "width": 75,
+          "x": 360,
+          "y": 390,
+          "zOrder": 38,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 75,
+          "layer": "",
+          "locked": false,
+          "name": "Lock8",
+          "persistentUuid": "0421f0d8-e135-4b4b-a0d2-662de1d371a3",
+          "width": 75,
+          "x": 360,
+          "y": 490,
+          "zOrder": 39,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -12680,7 +13065,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Unlock Ingredients",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 50,
           "color": {
             "b": 0,
@@ -12699,7 +13084,7 @@
           "variables": [],
           "behaviors": [],
           "string": "\nCoins: 0",
-          "font": "DotGothic16-Regular.ttf",
+          "font": "SourceSansPro-Regular.ttf",
           "characterSize": 40,
           "color": {
             "b": 0,
@@ -12725,7 +13110,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "BackButton-1.png",
+                      "image": "Back.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12755,16 +13140,16 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "Tomato",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Tomato.png",
+                      "image": "Tomato-1-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12794,16 +13179,16 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "Banana",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Banana.png",
+                      "image": "Banana-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12833,16 +13218,16 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "Pineapple",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Pineapple.png",
+                      "image": "Pineapple-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12872,46 +13257,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Chocolate.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Lock12",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "Locked",
+              "name": "Chocolate",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -12920,240 +13266,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Lock-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Unlocked",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.07999999821186066,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Unlocked-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Lock11",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "Locked",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.07999999821186066,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Lock-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Unlocked",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.07999999821186066,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Unlocked-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Lock10",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "Locked",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.07999999821186066,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Lock-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Unlocked",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.07999999821186066,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Unlocked-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Lock9",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "Locked",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.07999999821186066,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Lock-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Unlocked",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.07999999821186066,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Unlocked-1.png",
+                      "image": "Chocolate-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13192,7 +13305,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Lock-1.png",
+                      "image": "Lock.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13221,7 +13334,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Unlocked-1.png",
+                      "image": "Unlock.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13260,7 +13373,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Lock-1.png",
+                      "image": "Lock.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13289,7 +13402,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Unlocked-1.png",
+                      "image": "Unlock.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13328,7 +13441,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Lock-1.png",
+                      "image": "Lock.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13357,7 +13470,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Unlocked-1.png",
+                      "image": "Unlock.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13396,7 +13509,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Lock-1.png",
+                      "image": "Lock.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13425,7 +13538,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Unlocked-1.png",
+                      "image": "Unlock.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13464,7 +13577,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Lock-1.png",
+                      "image": "Lock.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13493,7 +13606,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Unlocked-1.png",
+                      "image": "Unlock.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13532,7 +13645,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Lock-1.png",
+                      "image": "Lock.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13561,7 +13674,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Unlocked-1.png",
+                      "image": "Unlock.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13600,7 +13713,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Lock-1.png",
+                      "image": "Lock.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13629,7 +13742,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Unlocked-1.png",
+                      "image": "Unlock.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13668,7 +13781,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Lock-1.png",
+                      "image": "Lock.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13697,7 +13810,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Unlocked-1.png",
+                      "image": "Unlock.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
