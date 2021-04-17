@@ -1900,7 +1900,7 @@ gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOn
 if (gdjs.GameplayCode.condition2IsTrue_0.val) {
 gdjs.GameplayCode.GDScoreSavedObjects1.length = 0;
 
-{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDScoreSavedObjects1Objects, 425, 340, "");
+{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDScoreSavedObjects1Objects, 450, 340, "");
 }{for(var i = 0, len = gdjs.GameplayCode.GDScoreSavedObjects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDScoreSavedObjects1[i].setZOrder(100);
 }
