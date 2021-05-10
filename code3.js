@@ -129,7 +129,7 @@ gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val = false;
 gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(10)) >= 1000;
 }if ( gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val ) {
 {
-gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(9)) > 4;
+gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(9)) == 5;
 }}
 if (gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val) {
 {gdjs.evtTools.common.toggleVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(6));
@@ -168,7 +168,7 @@ gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val = false;
 gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(10)) >= 1500;
 }if ( gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val ) {
 {
-gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(9)) > 5;
+gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(9)) == 6;
 }}
 if (gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val) {
 {gdjs.evtTools.common.toggleVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(7));
@@ -207,7 +207,7 @@ gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val = false;
 gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(10)) >= 3000;
 }if ( gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val ) {
 {
-gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(9)) > 6;
+gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(9)) > 7;
 }}
 if (gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val) {
 {gdjs.evtTools.common.toggleVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(8));
@@ -344,7 +344,6 @@ gdjs.Unlock_32IngredientsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers
 }}
 if (gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("Buy1"), gdjs.Unlock_32IngredientsCode.GDBuy1Objects1);
-gdjs.copyArray(runtimeScene.getObjects("Food5"), gdjs.Unlock_32IngredientsCode.GDFood5Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Lock5"), gdjs.Unlock_32IngredientsCode.GDLock5Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Price1"), gdjs.Unlock_32IngredientsCode.GDPrice1Objects1);
 {runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
@@ -353,9 +352,6 @@ gdjs.copyArray(runtimeScene.getObjects("Price1"), gdjs.Unlock_32IngredientsCode.
 }
 }{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDBuy1Objects1.length ;i < len;++i) {
     gdjs.Unlock_32IngredientsCode.GDBuy1Objects1[i].deleteFromScene(runtimeScene);
-}
-}{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDFood5Objects1.length ;i < len;++i) {
-    gdjs.Unlock_32IngredientsCode.GDFood5Objects1[i].setOpacity(1000);
 }
 }{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDLock5Objects1.length ;i < len;++i) {
     gdjs.Unlock_32IngredientsCode.GDLock5Objects1[i].setAnimation(1);
@@ -480,22 +476,6 @@ gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = false;
 {
 gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(5), false);
 }if (gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val) {
-gdjs.copyArray(runtimeScene.getObjects("Food5"), gdjs.Unlock_32IngredientsCode.GDFood5Objects1);
-{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDFood5Objects1.length ;i < len;++i) {
-    gdjs.Unlock_32IngredientsCode.GDFood5Objects1[i].setOpacity(150);
-}
-}}
-
-}
-
-
-{
-
-
-gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = false;
-{
-gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(6), false);
-}if (gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("Food6"), gdjs.Unlock_32IngredientsCode.GDFood6Objects1);
 {for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDFood6Objects1.length ;i < len;++i) {
     gdjs.Unlock_32IngredientsCode.GDFood6Objects1[i].setOpacity(150);
@@ -510,7 +490,7 @@ gdjs.copyArray(runtimeScene.getObjects("Food6"), gdjs.Unlock_32IngredientsCode.G
 
 gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = false;
 {
-gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(7), false);
+gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(6), false);
 }if (gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("Food7"), gdjs.Unlock_32IngredientsCode.GDFood7Objects1);
 {for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDFood7Objects1.length ;i < len;++i) {
@@ -526,7 +506,7 @@ gdjs.copyArray(runtimeScene.getObjects("Food7"), gdjs.Unlock_32IngredientsCode.G
 
 gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = false;
 {
-gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(8), false);
+gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(7), false);
 }if (gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("Food8"), gdjs.Unlock_32IngredientsCode.GDFood8Objects1);
 {for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDFood8Objects1.length ;i < len;++i) {

@@ -16827,18 +16827,6 @@
             {
               "type": {
                 "inverted": false,
-                "value": "Opacity"
-              },
-              "parameters": [
-                "Food5",
-                "=",
-                "1000"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
                 "value": "ChangeAnimation"
               },
               "parameters": [
@@ -17136,7 +17124,7 @@
                 "value": "Opacity"
               },
               "parameters": [
-                "Food5",
+                "Food6",
                 "=",
                 "150"
               ],
@@ -17169,39 +17157,6 @@
                 "value": "Opacity"
               },
               "parameters": [
-                "Food6",
-                "=",
-                "150"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "GlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "food7",
-                "False"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "Opacity"
-              },
-              "parameters": [
                 "Food7",
                 "=",
                 "150"
@@ -17222,7 +17177,7 @@
                 "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "food8",
+                "food7",
                 "False"
               ],
               "subInstructions": []
@@ -17396,8 +17351,8 @@
                       },
                       "parameters": [
                         "Unlocked",
-                        ">",
-                        "4"
+                        "=",
+                        "5"
                       ],
                       "subInstructions": []
                     }
@@ -17496,8 +17451,8 @@
                       },
                       "parameters": [
                         "Unlocked",
-                        ">",
-                        "5"
+                        "=",
+                        "6"
                       ],
                       "subInstructions": []
                     }
@@ -17597,7 +17552,7 @@
                       "parameters": [
                         "Unlocked",
                         ">",
-                        "6"
+                        "7"
                       ],
                       "subInstructions": []
                     }
