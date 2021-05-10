@@ -16793,18 +16793,6 @@
             {
               "type": {
                 "inverted": false,
-                "value": "ModVarGlobal"
-              },
-              "parameters": [
-                "Unlocked",
-                "+",
-                "1"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
                 "value": "Delete"
               },
               "parameters": [
@@ -16833,6 +16821,18 @@
                 "Lock5",
                 "=",
                 "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "Food6",
+                "=",
+                "1000"
               ],
               "subInstructions": []
             }
@@ -16868,18 +16868,6 @@
             {
               "type": {
                 "inverted": false,
-                "value": "ModVarGlobal"
-              },
-              "parameters": [
-                "Unlocked",
-                "+",
-                "1"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
                 "value": "Delete"
               },
               "parameters": [
@@ -16905,7 +16893,7 @@
                 "value": "Opacity"
               },
               "parameters": [
-                "Food6",
+                "Food7",
                 "=",
                 "1000"
               ],
@@ -16955,18 +16943,6 @@
             {
               "type": {
                 "inverted": false,
-                "value": "ModVarGlobal"
-              },
-              "parameters": [
-                "Unlocked",
-                "+",
-                "1"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
                 "value": "Delete"
               },
               "parameters": [
@@ -16989,24 +16965,24 @@
             {
               "type": {
                 "inverted": false,
-                "value": "Opacity"
-              },
-              "parameters": [
-                "Food7",
-                "=",
-                "1000"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
                 "value": "ChangeAnimation"
               },
               "parameters": [
                 "Lock7",
                 "=",
                 "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "Food8",
+                "=",
+                "1000"
               ],
               "subInstructions": []
             }
@@ -17042,18 +17018,6 @@
             {
               "type": {
                 "inverted": false,
-                "value": "ModVarGlobal"
-              },
-              "parameters": [
-                "Unlocked",
-                "+",
-                "1"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
                 "value": "Delete"
               },
               "parameters": [
@@ -17070,18 +17034,6 @@
               "parameters": [
                 "Buy4",
                 ""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "Opacity"
-              },
-              "parameters": [
-                "Food8",
-                "=",
-                "1000"
               ],
               "subInstructions": []
             },
@@ -17279,6 +17231,18 @@
                         "500"
                       ],
                       "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Unlocked",
+                        "=",
+                        "5"
+                      ],
+                      "subInstructions": []
                     }
                   ],
                   "events": []
@@ -17379,6 +17343,18 @@
                         "1000"
                       ],
                       "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Unlocked",
+                        "=",
+                        "6"
+                      ],
+                      "subInstructions": []
                     }
                   ],
                   "events": []
@@ -17458,6 +17434,18 @@
                     }
                   ],
                   "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Unlocked",
+                        "=",
+                        "7"
+                      ],
+                      "subInstructions": []
+                    },
                     {
                       "type": {
                         "inverted": false,
@@ -17558,6 +17546,18 @@
                     }
                   ],
                   "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Unlocked",
+                        "=",
+                        "8"
+                      ],
+                      "subInstructions": []
+                    },
                     {
                       "type": {
                         "inverted": false,

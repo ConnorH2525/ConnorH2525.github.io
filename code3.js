@@ -95,6 +95,7 @@ gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getV
 }if (gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val) {
 {gdjs.evtTools.common.toggleVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(5));
 }{runtimeScene.getGame().getVariables().getFromIndex(10).sub(500);
+}{runtimeScene.getGame().getVariables().getFromIndex(9).setNumber(5);
 }}
 
 }
@@ -134,6 +135,7 @@ gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val = gdjs.evtTools.common.getV
 if (gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val) {
 {gdjs.evtTools.common.toggleVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(6));
 }{runtimeScene.getGame().getVariables().getFromIndex(10).sub(1000);
+}{runtimeScene.getGame().getVariables().getFromIndex(9).setNumber(6);
 }}
 
 }
@@ -171,7 +173,8 @@ gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getV
 gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(9)) == 6;
 }}
 if (gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val) {
-{gdjs.evtTools.common.toggleVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(7));
+{runtimeScene.getGame().getVariables().getFromIndex(9).setNumber(7);
+}{gdjs.evtTools.common.toggleVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(7));
 }{runtimeScene.getGame().getVariables().getFromIndex(10).sub(1500);
 }}
 
@@ -210,7 +213,8 @@ gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getV
 gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(9)) > 7;
 }}
 if (gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val) {
-{gdjs.evtTools.common.toggleVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(8));
+{runtimeScene.getGame().getVariables().getFromIndex(9).setNumber(8);
+}{gdjs.evtTools.common.toggleVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(8));
 }{runtimeScene.getGame().getVariables().getFromIndex(10).sub(3000);
 }}
 
@@ -344,10 +348,10 @@ gdjs.Unlock_32IngredientsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers
 }}
 if (gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("Buy1"), gdjs.Unlock_32IngredientsCode.GDBuy1Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food6"), gdjs.Unlock_32IngredientsCode.GDFood6Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Lock5"), gdjs.Unlock_32IngredientsCode.GDLock5Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Price1"), gdjs.Unlock_32IngredientsCode.GDPrice1Objects1);
-{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
-}{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDPrice1Objects1.length ;i < len;++i) {
+{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDPrice1Objects1.length ;i < len;++i) {
     gdjs.Unlock_32IngredientsCode.GDPrice1Objects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDBuy1Objects1.length ;i < len;++i) {
@@ -355,6 +359,9 @@ gdjs.copyArray(runtimeScene.getObjects("Price1"), gdjs.Unlock_32IngredientsCode.
 }
 }{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDLock5Objects1.length ;i < len;++i) {
     gdjs.Unlock_32IngredientsCode.GDLock5Objects1[i].setAnimation(1);
+}
+}{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDFood6Objects1.length ;i < len;++i) {
+    gdjs.Unlock_32IngredientsCode.GDFood6Objects1[i].setOpacity(1000);
 }
 }}
 
@@ -376,18 +383,17 @@ gdjs.Unlock_32IngredientsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers
 }}
 if (gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("Buy2"), gdjs.Unlock_32IngredientsCode.GDBuy2Objects1);
-gdjs.copyArray(runtimeScene.getObjects("Food6"), gdjs.Unlock_32IngredientsCode.GDFood6Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food7"), gdjs.Unlock_32IngredientsCode.GDFood7Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Lock6"), gdjs.Unlock_32IngredientsCode.GDLock6Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Price2"), gdjs.Unlock_32IngredientsCode.GDPrice2Objects1);
-{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
-}{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDPrice2Objects1.length ;i < len;++i) {
+{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDPrice2Objects1.length ;i < len;++i) {
     gdjs.Unlock_32IngredientsCode.GDPrice2Objects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDBuy2Objects1.length ;i < len;++i) {
     gdjs.Unlock_32IngredientsCode.GDBuy2Objects1[i].deleteFromScene(runtimeScene);
 }
-}{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDFood6Objects1.length ;i < len;++i) {
-    gdjs.Unlock_32IngredientsCode.GDFood6Objects1[i].setOpacity(1000);
+}{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDFood7Objects1.length ;i < len;++i) {
+    gdjs.Unlock_32IngredientsCode.GDFood7Objects1[i].setOpacity(1000);
 }
 }{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDLock6Objects1.length ;i < len;++i) {
     gdjs.Unlock_32IngredientsCode.GDLock6Objects1[i].setAnimation(1);
@@ -412,21 +418,20 @@ gdjs.Unlock_32IngredientsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers
 }}
 if (gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("Buy3"), gdjs.Unlock_32IngredientsCode.GDBuy3Objects1);
-gdjs.copyArray(runtimeScene.getObjects("Food7"), gdjs.Unlock_32IngredientsCode.GDFood7Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food8"), gdjs.Unlock_32IngredientsCode.GDFood8Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Lock7"), gdjs.Unlock_32IngredientsCode.GDLock7Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Price3"), gdjs.Unlock_32IngredientsCode.GDPrice3Objects1);
-{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
-}{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDPrice3Objects1.length ;i < len;++i) {
+{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDPrice3Objects1.length ;i < len;++i) {
     gdjs.Unlock_32IngredientsCode.GDPrice3Objects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDBuy3Objects1.length ;i < len;++i) {
     gdjs.Unlock_32IngredientsCode.GDBuy3Objects1[i].deleteFromScene(runtimeScene);
 }
-}{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDFood7Objects1.length ;i < len;++i) {
-    gdjs.Unlock_32IngredientsCode.GDFood7Objects1[i].setOpacity(1000);
-}
 }{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDLock7Objects1.length ;i < len;++i) {
     gdjs.Unlock_32IngredientsCode.GDLock7Objects1[i].setAnimation(1);
+}
+}{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDFood8Objects1.length ;i < len;++i) {
+    gdjs.Unlock_32IngredientsCode.GDFood8Objects1[i].setOpacity(1000);
 }
 }}
 
@@ -448,18 +453,13 @@ gdjs.Unlock_32IngredientsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers
 }}
 if (gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("Buy4"), gdjs.Unlock_32IngredientsCode.GDBuy4Objects1);
-gdjs.copyArray(runtimeScene.getObjects("Food8"), gdjs.Unlock_32IngredientsCode.GDFood8Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Lock8"), gdjs.Unlock_32IngredientsCode.GDLock8Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Price4"), gdjs.Unlock_32IngredientsCode.GDPrice4Objects1);
-{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
-}{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDPrice4Objects1.length ;i < len;++i) {
+{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDPrice4Objects1.length ;i < len;++i) {
     gdjs.Unlock_32IngredientsCode.GDPrice4Objects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDBuy4Objects1.length ;i < len;++i) {
     gdjs.Unlock_32IngredientsCode.GDBuy4Objects1[i].deleteFromScene(runtimeScene);
-}
-}{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDFood8Objects1.length ;i < len;++i) {
-    gdjs.Unlock_32IngredientsCode.GDFood8Objects1[i].setOpacity(1000);
 }
 }{for(var i = 0, len = gdjs.Unlock_32IngredientsCode.GDLock8Objects1.length ;i < len;++i) {
     gdjs.Unlock_32IngredientsCode.GDLock8Objects1[i].setAnimation(1);
