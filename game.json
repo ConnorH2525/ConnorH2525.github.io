@@ -16411,7 +16411,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "1000",
+          "string": "500",
           "font": "SourceSansPro-Regular.ttf",
           "characterSize": 40,
           "color": {
@@ -16430,7 +16430,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "1500",
+          "string": "1000",
           "font": "SourceSansPro-Regular.ttf",
           "characterSize": 40,
           "color": {
@@ -16449,7 +16449,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "2000",
+          "string": "1500",
           "font": "SourceSansPro-Regular.ttf",
           "characterSize": 40,
           "color": {
@@ -16468,7 +16468,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "4000",
+          "string": "3000",
           "font": "SourceSansPro-Regular.ttf",
           "characterSize": 40,
           "color": {
@@ -17297,7 +17297,7 @@
                       "parameters": [
                         "Coins",
                         ">=",
-                        "1000"
+                        "500"
                       ],
                       "subInstructions": []
                     }
@@ -17321,7 +17321,7 @@
                       "parameters": [
                         "Coins",
                         "-",
-                        "1000"
+                        "500"
                       ],
                       "subInstructions": []
                     }
@@ -17385,7 +17385,7 @@
                       "parameters": [
                         "Coins",
                         ">=",
-                        "1500"
+                        "1000"
                       ],
                       "subInstructions": []
                     },
@@ -17421,7 +17421,7 @@
                       "parameters": [
                         "Coins",
                         "-",
-                        "1500"
+                        "1000"
                       ],
                       "subInstructions": []
                     }
@@ -17485,7 +17485,7 @@
                       "parameters": [
                         "Coins",
                         ">=",
-                        "2000"
+                        "1500"
                       ],
                       "subInstructions": []
                     },
@@ -17521,7 +17521,7 @@
                       "parameters": [
                         "Coins",
                         "-",
-                        "2000"
+                        "1500"
                       ],
                       "subInstructions": []
                     }
@@ -17585,7 +17585,7 @@
                       "parameters": [
                         "Coins",
                         ">=",
-                        "4000"
+                        "3000"
                       ],
                       "subInstructions": []
                     },
@@ -17621,7 +17621,7 @@
                       "parameters": [
                         "Coins",
                         "-",
-                        "4000"
+                        "3000"
                       ],
                       "subInstructions": []
                     }

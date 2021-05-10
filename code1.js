@@ -191,9 +191,6 @@ gdjs.GameplayCode.GDFood5_951Objects3= [];
 gdjs.GameplayCode.GDFood5Objects1= [];
 gdjs.GameplayCode.GDFood5Objects2= [];
 gdjs.GameplayCode.GDFood5Objects3= [];
-gdjs.GameplayCode.GDNewObject3Objects1= [];
-gdjs.GameplayCode.GDNewObject3Objects2= [];
-gdjs.GameplayCode.GDNewObject3Objects3= [];
 
 gdjs.GameplayCode.conditionTrue_0 = {val:false};
 gdjs.GameplayCode.condition0IsTrue_0 = {val:false};
@@ -2830,19 +2827,6 @@ if (gdjs.GameplayCode.condition1IsTrue_0.val) {
 {
 
 
-{
-gdjs.copyArray(runtimeScene.getObjects("NewObject3"), gdjs.GameplayCode.GDNewObject3Objects1);
-{for(var i = 0, len = gdjs.GameplayCode.GDNewObject3Objects1.length ;i < len;++i) {
-    gdjs.GameplayCode.GDNewObject3Objects1[i].setString(gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(11)));
-}
-}}
-
-}
-
-
-{
-
-
 gdjs.GameplayCode.eventsList0(runtimeScene);
 }
 
@@ -4089,9 +4073,6 @@ gdjs.GameplayCode.GDFood5_951Objects3.length = 0;
 gdjs.GameplayCode.GDFood5Objects1.length = 0;
 gdjs.GameplayCode.GDFood5Objects2.length = 0;
 gdjs.GameplayCode.GDFood5Objects3.length = 0;
-gdjs.GameplayCode.GDNewObject3Objects1.length = 0;
-gdjs.GameplayCode.GDNewObject3Objects2.length = 0;
-gdjs.GameplayCode.GDNewObject3Objects3.length = 0;
 
 gdjs.GameplayCode.eventsList23(runtimeScene);
 return;

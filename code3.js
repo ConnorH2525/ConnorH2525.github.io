@@ -91,10 +91,10 @@ gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = gdjs.evtTools.input.curso
 
 gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = false;
 {
-gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(10)) >= 1000;
+gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(10)) >= 500;
 }if (gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val) {
 {gdjs.evtTools.common.toggleVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(5));
-}{runtimeScene.getGame().getVariables().getFromIndex(10).sub(1000);
+}{runtimeScene.getGame().getVariables().getFromIndex(10).sub(500);
 }}
 
 }
@@ -126,14 +126,14 @@ gdjs.Unlock_32IngredientsCode.eventsList1(runtimeScene);} //End of subevents
 gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = false;
 gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val = false;
 {
-gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(10)) >= 1500;
+gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(10)) >= 1000;
 }if ( gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val ) {
 {
 gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(9)) > 4;
 }}
 if (gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val) {
 {gdjs.evtTools.common.toggleVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(6));
-}{runtimeScene.getGame().getVariables().getFromIndex(10).sub(1500);
+}{runtimeScene.getGame().getVariables().getFromIndex(10).sub(1000);
 }}
 
 }
@@ -165,14 +165,14 @@ gdjs.Unlock_32IngredientsCode.eventsList3(runtimeScene);} //End of subevents
 gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = false;
 gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val = false;
 {
-gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(10)) >= 2000;
+gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(10)) >= 1500;
 }if ( gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val ) {
 {
 gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(9)) > 5;
 }}
 if (gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val) {
 {gdjs.evtTools.common.toggleVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(7));
-}{runtimeScene.getGame().getVariables().getFromIndex(10).sub(2000);
+}{runtimeScene.getGame().getVariables().getFromIndex(10).sub(1500);
 }}
 
 }
@@ -204,14 +204,14 @@ gdjs.Unlock_32IngredientsCode.eventsList5(runtimeScene);} //End of subevents
 gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = false;
 gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val = false;
 {
-gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(10)) >= 4000;
+gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(10)) >= 3000;
 }if ( gdjs.Unlock_32IngredientsCode.condition0IsTrue_0.val ) {
 {
 gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(9)) > 6;
 }}
 if (gdjs.Unlock_32IngredientsCode.condition1IsTrue_0.val) {
 {gdjs.evtTools.common.toggleVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(8));
-}{runtimeScene.getGame().getVariables().getFromIndex(10).sub(4000);
+}{runtimeScene.getGame().getVariables().getFromIndex(10).sub(3000);
 }}
 
 }
