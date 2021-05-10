@@ -89,6 +89,9 @@ gdjs.GameplayCode.GDNewObjectObjects3= [];
 gdjs.GameplayCode.GDProgressObjects1= [];
 gdjs.GameplayCode.GDProgressObjects2= [];
 gdjs.GameplayCode.GDProgressObjects3= [];
+gdjs.GameplayCode.GDStatistics1Objects1= [];
+gdjs.GameplayCode.GDStatistics1Objects2= [];
+gdjs.GameplayCode.GDStatistics1Objects3= [];
 gdjs.GameplayCode.GDVulnerabilityObjects1= [];
 gdjs.GameplayCode.GDVulnerabilityObjects2= [];
 gdjs.GameplayCode.GDVulnerabilityObjects3= [];
@@ -128,6 +131,69 @@ gdjs.GameplayCode.GDContinueButtonObjects3= [];
 gdjs.GameplayCode.GDEscMenuObjects1= [];
 gdjs.GameplayCode.GDEscMenuObjects2= [];
 gdjs.GameplayCode.GDEscMenuObjects3= [];
+gdjs.GameplayCode.GDFood8_954Objects1= [];
+gdjs.GameplayCode.GDFood8_954Objects2= [];
+gdjs.GameplayCode.GDFood8_954Objects3= [];
+gdjs.GameplayCode.GDFood8_953Objects1= [];
+gdjs.GameplayCode.GDFood8_953Objects2= [];
+gdjs.GameplayCode.GDFood8_953Objects3= [];
+gdjs.GameplayCode.GDFood8_952Objects1= [];
+gdjs.GameplayCode.GDFood8_952Objects2= [];
+gdjs.GameplayCode.GDFood8_952Objects3= [];
+gdjs.GameplayCode.GDFood8_951Objects1= [];
+gdjs.GameplayCode.GDFood8_951Objects2= [];
+gdjs.GameplayCode.GDFood8_951Objects3= [];
+gdjs.GameplayCode.GDFood8Objects1= [];
+gdjs.GameplayCode.GDFood8Objects2= [];
+gdjs.GameplayCode.GDFood8Objects3= [];
+gdjs.GameplayCode.GDFood7_954Objects1= [];
+gdjs.GameplayCode.GDFood7_954Objects2= [];
+gdjs.GameplayCode.GDFood7_954Objects3= [];
+gdjs.GameplayCode.GDFood7_953Objects1= [];
+gdjs.GameplayCode.GDFood7_953Objects2= [];
+gdjs.GameplayCode.GDFood7_953Objects3= [];
+gdjs.GameplayCode.GDFood7_952Objects1= [];
+gdjs.GameplayCode.GDFood7_952Objects2= [];
+gdjs.GameplayCode.GDFood7_952Objects3= [];
+gdjs.GameplayCode.GDFood7_951Objects1= [];
+gdjs.GameplayCode.GDFood7_951Objects2= [];
+gdjs.GameplayCode.GDFood7_951Objects3= [];
+gdjs.GameplayCode.GDFood7Objects1= [];
+gdjs.GameplayCode.GDFood7Objects2= [];
+gdjs.GameplayCode.GDFood7Objects3= [];
+gdjs.GameplayCode.GDFood6_954Objects1= [];
+gdjs.GameplayCode.GDFood6_954Objects2= [];
+gdjs.GameplayCode.GDFood6_954Objects3= [];
+gdjs.GameplayCode.GDFood6_953Objects1= [];
+gdjs.GameplayCode.GDFood6_953Objects2= [];
+gdjs.GameplayCode.GDFood6_953Objects3= [];
+gdjs.GameplayCode.GDFood6_952Objects1= [];
+gdjs.GameplayCode.GDFood6_952Objects2= [];
+gdjs.GameplayCode.GDFood6_952Objects3= [];
+gdjs.GameplayCode.GDFood6_951Objects1= [];
+gdjs.GameplayCode.GDFood6_951Objects2= [];
+gdjs.GameplayCode.GDFood6_951Objects3= [];
+gdjs.GameplayCode.GDFood6Objects1= [];
+gdjs.GameplayCode.GDFood6Objects2= [];
+gdjs.GameplayCode.GDFood6Objects3= [];
+gdjs.GameplayCode.GDFood5_954Objects1= [];
+gdjs.GameplayCode.GDFood5_954Objects2= [];
+gdjs.GameplayCode.GDFood5_954Objects3= [];
+gdjs.GameplayCode.GDFood5_953Objects1= [];
+gdjs.GameplayCode.GDFood5_953Objects2= [];
+gdjs.GameplayCode.GDFood5_953Objects3= [];
+gdjs.GameplayCode.GDFood5_952Objects1= [];
+gdjs.GameplayCode.GDFood5_952Objects2= [];
+gdjs.GameplayCode.GDFood5_952Objects3= [];
+gdjs.GameplayCode.GDFood5_951Objects1= [];
+gdjs.GameplayCode.GDFood5_951Objects2= [];
+gdjs.GameplayCode.GDFood5_951Objects3= [];
+gdjs.GameplayCode.GDFood5Objects1= [];
+gdjs.GameplayCode.GDFood5Objects2= [];
+gdjs.GameplayCode.GDFood5Objects3= [];
+gdjs.GameplayCode.GDNewObject3Objects1= [];
+gdjs.GameplayCode.GDNewObject3Objects2= [];
+gdjs.GameplayCode.GDNewObject3Objects3= [];
 
 gdjs.GameplayCode.conditionTrue_0 = {val:false};
 gdjs.GameplayCode.condition0IsTrue_0 = {val:false};
@@ -143,9 +209,9 @@ gdjs.GameplayCode.condition3IsTrue_1 = {val:false};
 
 gdjs.GameplayCode.eventsList0 = function(runtimeScene) {
 
-};gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95954Objects1Objects = Hashtable.newFrom({"Food1_1": gdjs.GameplayCode.GDFood1_951Objects1, "Food1_2": gdjs.GameplayCode.GDFood1_952Objects1, "Food2_2": gdjs.GameplayCode.GDFood2_952Objects1, "Food3_1": gdjs.GameplayCode.GDFood3_951Objects1, "Food3_2": gdjs.GameplayCode.GDFood3_952Objects1, "Food4_1": gdjs.GameplayCode.GDFood4_951Objects1, "Food4_2": gdjs.GameplayCode.GDFood4_952Objects1, "Food2_1": gdjs.GameplayCode.GDFood2_951Objects1, "Food1_3": gdjs.GameplayCode.GDFood1_953Objects1, "Food2_3": gdjs.GameplayCode.GDFood2_953Objects1, "Food3_3": gdjs.GameplayCode.GDFood3_953Objects1, "Food4_3": gdjs.GameplayCode.GDFood4_953Objects1, "Food1_4": gdjs.GameplayCode.GDFood1_954Objects1, "Food2_4": gdjs.GameplayCode.GDFood2_954Objects1, "Food3_4": gdjs.GameplayCode.GDFood3_954Objects1, "Food4_4": gdjs.GameplayCode.GDFood4_954Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDProgressObjects1Objects = Hashtable.newFrom({"Progress": gdjs.GameplayCode.GDProgressObjects1});gdjs.GameplayCode.eventsList1 = function(runtimeScene) {
+};gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1, "Food5": gdjs.GameplayCode.GDFood5Objects1, "Food6": gdjs.GameplayCode.GDFood6Objects1, "Food7": gdjs.GameplayCode.GDFood7Objects1, "Food8": gdjs.GameplayCode.GDFood8Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1, "Food5": gdjs.GameplayCode.GDFood5Objects1, "Food6": gdjs.GameplayCode.GDFood6Objects1, "Food7": gdjs.GameplayCode.GDFood7Objects1, "Food8": gdjs.GameplayCode.GDFood8Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95954Objects1Objects = Hashtable.newFrom({"Food1_1": gdjs.GameplayCode.GDFood1_951Objects1, "Food1_2": gdjs.GameplayCode.GDFood1_952Objects1, "Food2_2": gdjs.GameplayCode.GDFood2_952Objects1, "Food3_1": gdjs.GameplayCode.GDFood3_951Objects1, "Food3_2": gdjs.GameplayCode.GDFood3_952Objects1, "Food4_1": gdjs.GameplayCode.GDFood4_951Objects1, "Food4_2": gdjs.GameplayCode.GDFood4_952Objects1, "Food2_1": gdjs.GameplayCode.GDFood2_951Objects1, "Food1_3": gdjs.GameplayCode.GDFood1_953Objects1, "Food2_3": gdjs.GameplayCode.GDFood2_953Objects1, "Food3_3": gdjs.GameplayCode.GDFood3_953Objects1, "Food4_3": gdjs.GameplayCode.GDFood4_953Objects1, "Food1_4": gdjs.GameplayCode.GDFood1_954Objects1, "Food2_4": gdjs.GameplayCode.GDFood2_954Objects1, "Food3_4": gdjs.GameplayCode.GDFood3_954Objects1, "Food4_4": gdjs.GameplayCode.GDFood4_954Objects1, "Food5_1": gdjs.GameplayCode.GDFood5_951Objects1, "Food5_2": gdjs.GameplayCode.GDFood5_952Objects1, "Food5_3": gdjs.GameplayCode.GDFood5_953Objects1, "Food5_4": gdjs.GameplayCode.GDFood5_954Objects1, "Food6_1": gdjs.GameplayCode.GDFood6_951Objects1, "Food6_2": gdjs.GameplayCode.GDFood6_952Objects1, "Food6_3": gdjs.GameplayCode.GDFood6_953Objects1, "Food6_4": gdjs.GameplayCode.GDFood6_954Objects1, "Food7_1": gdjs.GameplayCode.GDFood7_951Objects1, "Food7_2": gdjs.GameplayCode.GDFood7_952Objects1, "Food7_3": gdjs.GameplayCode.GDFood7_953Objects1, "Food7_4": gdjs.GameplayCode.GDFood7_954Objects1, "Food8_1": gdjs.GameplayCode.GDFood8_951Objects1, "Food8_2": gdjs.GameplayCode.GDFood8_952Objects1, "Food8_3": gdjs.GameplayCode.GDFood8_953Objects1, "Food8_4": gdjs.GameplayCode.GDFood8_954Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDProgressObjects1Objects = Hashtable.newFrom({"Progress": gdjs.GameplayCode.GDProgressObjects1});gdjs.GameplayCode.eventsList1 = function(runtimeScene) {
 
-};gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDKnifeObjects1Objects = Hashtable.newFrom({"Knife": gdjs.GameplayCode.GDKnifeObjects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDLifeObjects2Objects = Hashtable.newFrom({"Life": gdjs.GameplayCode.GDLifeObjects2});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95954Objects1Objects = Hashtable.newFrom({"Food1_1": gdjs.GameplayCode.GDFood1_951Objects1, "Food1_2": gdjs.GameplayCode.GDFood1_952Objects1, "Food2_2": gdjs.GameplayCode.GDFood2_952Objects1, "Food3_1": gdjs.GameplayCode.GDFood3_951Objects1, "Food3_2": gdjs.GameplayCode.GDFood3_952Objects1, "Food4_1": gdjs.GameplayCode.GDFood4_951Objects1, "Food4_2": gdjs.GameplayCode.GDFood4_952Objects1, "Food2_1": gdjs.GameplayCode.GDFood2_951Objects1, "Food1_3": gdjs.GameplayCode.GDFood1_953Objects1, "Food2_3": gdjs.GameplayCode.GDFood2_953Objects1, "Food3_3": gdjs.GameplayCode.GDFood3_953Objects1, "Food4_3": gdjs.GameplayCode.GDFood4_953Objects1, "Food1_4": gdjs.GameplayCode.GDFood1_954Objects1, "Food2_4": gdjs.GameplayCode.GDFood2_954Objects1, "Food3_4": gdjs.GameplayCode.GDFood3_954Objects1, "Food4_4": gdjs.GameplayCode.GDFood4_954Objects1});gdjs.GameplayCode.eventsList2 = function(runtimeScene) {
+};gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDKnifeObjects1Objects = Hashtable.newFrom({"Knife": gdjs.GameplayCode.GDKnifeObjects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1, "Food5": gdjs.GameplayCode.GDFood5Objects1, "Food6": gdjs.GameplayCode.GDFood6Objects1, "Food7": gdjs.GameplayCode.GDFood7Objects1, "Food8": gdjs.GameplayCode.GDFood8Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1, "Food5": gdjs.GameplayCode.GDFood5Objects1, "Food6": gdjs.GameplayCode.GDFood6Objects1, "Food7": gdjs.GameplayCode.GDFood7Objects1, "Food8": gdjs.GameplayCode.GDFood8Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDLifeObjects2Objects = Hashtable.newFrom({"Life": gdjs.GameplayCode.GDLifeObjects2});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95954Objects1Objects = Hashtable.newFrom({"Food1_1": gdjs.GameplayCode.GDFood1_951Objects1, "Food1_2": gdjs.GameplayCode.GDFood1_952Objects1, "Food2_2": gdjs.GameplayCode.GDFood2_952Objects1, "Food3_1": gdjs.GameplayCode.GDFood3_951Objects1, "Food3_2": gdjs.GameplayCode.GDFood3_952Objects1, "Food4_1": gdjs.GameplayCode.GDFood4_951Objects1, "Food4_2": gdjs.GameplayCode.GDFood4_952Objects1, "Food2_1": gdjs.GameplayCode.GDFood2_951Objects1, "Food1_3": gdjs.GameplayCode.GDFood1_953Objects1, "Food2_3": gdjs.GameplayCode.GDFood2_953Objects1, "Food3_3": gdjs.GameplayCode.GDFood3_953Objects1, "Food4_3": gdjs.GameplayCode.GDFood4_953Objects1, "Food1_4": gdjs.GameplayCode.GDFood1_954Objects1, "Food2_4": gdjs.GameplayCode.GDFood2_954Objects1, "Food3_4": gdjs.GameplayCode.GDFood3_954Objects1, "Food4_4": gdjs.GameplayCode.GDFood4_954Objects1, "Food5_1": gdjs.GameplayCode.GDFood5_951Objects1, "Food5_2": gdjs.GameplayCode.GDFood5_952Objects1, "Food5_3": gdjs.GameplayCode.GDFood5_953Objects1, "Food5_4": gdjs.GameplayCode.GDFood5_954Objects1, "Food6_1": gdjs.GameplayCode.GDFood6_951Objects1, "Food6_2": gdjs.GameplayCode.GDFood6_952Objects1, "Food6_3": gdjs.GameplayCode.GDFood6_953Objects1, "Food6_4": gdjs.GameplayCode.GDFood6_954Objects1, "Food7_1": gdjs.GameplayCode.GDFood7_951Objects1, "Food7_2": gdjs.GameplayCode.GDFood7_952Objects1, "Food7_3": gdjs.GameplayCode.GDFood7_953Objects1, "Food7_4": gdjs.GameplayCode.GDFood7_954Objects1, "Food8_1": gdjs.GameplayCode.GDFood8_951Objects1, "Food8_2": gdjs.GameplayCode.GDFood8_952Objects1, "Food8_3": gdjs.GameplayCode.GDFood8_953Objects1, "Food8_4": gdjs.GameplayCode.GDFood8_954Objects1});gdjs.GameplayCode.eventsList2 = function(runtimeScene) {
 
 {
 
@@ -181,7 +247,7 @@ if( gdjs.GameplayCode.condition2IsTrue_1.val ) {
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9889084);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9980820);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
@@ -209,6 +275,30 @@ gdjs.copyArray(runtimeScene.getObjects("Food4_1"), gdjs.GameplayCode.GDFood4_951
 gdjs.copyArray(runtimeScene.getObjects("Food4_2"), gdjs.GameplayCode.GDFood4_952Objects2);
 gdjs.copyArray(runtimeScene.getObjects("Food4_3"), gdjs.GameplayCode.GDFood4_953Objects2);
 gdjs.copyArray(runtimeScene.getObjects("Food4_4"), gdjs.GameplayCode.GDFood4_954Objects2);
+gdjs.copyArray(gdjs.GameplayCode.GDFood5Objects1, gdjs.GameplayCode.GDFood5Objects2);
+
+gdjs.copyArray(runtimeScene.getObjects("Food5_1"), gdjs.GameplayCode.GDFood5_951Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food5_2"), gdjs.GameplayCode.GDFood5_952Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food5_3"), gdjs.GameplayCode.GDFood5_953Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food5_4"), gdjs.GameplayCode.GDFood5_954Objects2);
+gdjs.copyArray(gdjs.GameplayCode.GDFood6Objects1, gdjs.GameplayCode.GDFood6Objects2);
+
+gdjs.copyArray(runtimeScene.getObjects("Food6_1"), gdjs.GameplayCode.GDFood6_951Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food6_2"), gdjs.GameplayCode.GDFood6_952Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food6_3"), gdjs.GameplayCode.GDFood6_953Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food6_4"), gdjs.GameplayCode.GDFood6_954Objects2);
+gdjs.copyArray(gdjs.GameplayCode.GDFood7Objects1, gdjs.GameplayCode.GDFood7Objects2);
+
+gdjs.copyArray(runtimeScene.getObjects("Food7_1"), gdjs.GameplayCode.GDFood7_951Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food7_2"), gdjs.GameplayCode.GDFood7_952Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food7_3"), gdjs.GameplayCode.GDFood7_953Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food7_4"), gdjs.GameplayCode.GDFood7_954Objects2);
+gdjs.copyArray(gdjs.GameplayCode.GDFood8Objects1, gdjs.GameplayCode.GDFood8Objects2);
+
+gdjs.copyArray(runtimeScene.getObjects("Food8_1"), gdjs.GameplayCode.GDFood8_951Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food8_2"), gdjs.GameplayCode.GDFood8_952Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food8_3"), gdjs.GameplayCode.GDFood8_953Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food8_4"), gdjs.GameplayCode.GDFood8_954Objects2);
 gdjs.GameplayCode.GDLifeObjects2.length = 0;
 
 {for(var i = 0, len = gdjs.GameplayCode.GDFood1Objects2.length ;i < len;++i) {
@@ -222,6 +312,18 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood3Objects2.length ;i < len;++i) {
 }
 for(var i = 0, len = gdjs.GameplayCode.GDFood4Objects2.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood4Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8Objects2[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.GameplayCode.GDFood1_951Objects2.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood1_951Objects2[i].deleteFromScene(runtimeScene);
@@ -271,6 +373,54 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood3_954Objects2.length ;i < len;++i) 
 for(var i = 0, len = gdjs.GameplayCode.GDFood4_954Objects2.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood4_954Objects2[i].deleteFromScene(runtimeScene);
 }
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_951Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_951Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_952Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_952Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_953Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_953Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_954Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_954Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_951Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_951Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_952Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_952Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_953Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_953Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_954Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_954Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_951Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_951Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_952Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_952Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_953Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_953Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_954Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_954Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_951Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_951Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_952Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_952Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_953Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_953Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_954Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_954Objects2[i].deleteFromScene(runtimeScene);
+}
 }{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDLifeObjects2Objects, 600 + (gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(3)) * 60), 62, "");
 }{for(var i = 0, len = gdjs.GameplayCode.GDLifeObjects2.length ;i < len;++i) {
     gdjs.GameplayCode.GDLifeObjects2[i].setScale(0.5);
@@ -293,7 +443,7 @@ gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumbe
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9891172);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9982908);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
@@ -301,6 +451,10 @@ if (gdjs.GameplayCode.condition1IsTrue_0.val) {
 /* Reuse gdjs.GameplayCode.GDFood2Objects1 */
 /* Reuse gdjs.GameplayCode.GDFood3Objects1 */
 /* Reuse gdjs.GameplayCode.GDFood4Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood5Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood6Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood7Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood8Objects1 */
 gdjs.copyArray(runtimeScene.getObjects("Score"), gdjs.GameplayCode.GDScoreObjects1);
 gdjs.GameplayCode.GDFood1_951Objects1.length = 0;
 
@@ -334,7 +488,39 @@ gdjs.GameplayCode.GDFood4_953Objects1.length = 0;
 
 gdjs.GameplayCode.GDFood4_954Objects1.length = 0;
 
-{gdjs.evtTools.object.createObjectFromGroupOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95954Objects1Objects, "Food" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(0)) + "_" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(1)), (( gdjs.GameplayCode.GDFood4Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood3Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood2Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood1Objects1.length === 0 ) ? 0 :gdjs.GameplayCode.GDFood1Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood2Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood3Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood4Objects1[0].getPointX("")), (( gdjs.GameplayCode.GDFood4Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood3Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood2Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood1Objects1.length === 0 ) ? 0 :gdjs.GameplayCode.GDFood1Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood2Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood3Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood4Objects1[0].getPointY("")), "");
+gdjs.GameplayCode.GDFood5_951Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood5_952Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood5_953Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood5_954Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood6_951Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood6_952Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood6_953Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood6_954Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood7_951Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood7_952Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood7_953Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood7_954Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood8_951Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood8_952Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood8_953Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood8_954Objects1.length = 0;
+
+{gdjs.evtTools.object.createObjectFromGroupOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95954Objects1Objects, "Food" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(0)) + "_" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(1)), (( gdjs.GameplayCode.GDFood8Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood7Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood6Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood5Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood4Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood3Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood2Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood1Objects1.length === 0 ) ? 0 :gdjs.GameplayCode.GDFood1Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood2Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood3Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood4Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood5Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood6Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood7Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood8Objects1[0].getPointX("")), (( gdjs.GameplayCode.GDFood8Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood7Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood6Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood5Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood4Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood3Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood2Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood1Objects1.length === 0 ) ? 0 :gdjs.GameplayCode.GDFood1Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood2Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood3Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood4Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood5Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood6Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood7Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood8Objects1[0].getPointY("")), "");
 }{for(var i = 0, len = gdjs.GameplayCode.GDFood1_951Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood1_951Objects1[i].setScale(1.5);
 }
@@ -383,6 +569,54 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood3_954Objects1.length ;i < len;++i) 
 for(var i = 0, len = gdjs.GameplayCode.GDFood4_954Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood4_954Objects1[i].setScale(1.5);
 }
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_951Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_952Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_953Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_954Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_951Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_952Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_953Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_954Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_951Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_952Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_953Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_954Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_951Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_952Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_953Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_954Objects1[i].setScale(1.5);
+}
 }{for(var i = 0, len = gdjs.GameplayCode.GDFood1Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood1Objects1[i].deleteFromScene(runtimeScene);
 }
@@ -394,6 +628,18 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood3Objects1.length ;i < len;++i) {
 }
 for(var i = 0, len = gdjs.GameplayCode.GDFood4Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood4Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8Objects1[i].deleteFromScene(runtimeScene);
 }
 }{gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "FoodPrepared");
 }{runtimeScene.getVariables().getFromIndex(2).add(1);
@@ -414,20 +660,24 @@ gdjs.copyArray(runtimeScene.getObjects("Food1"), gdjs.GameplayCode.GDFood1Object
 gdjs.copyArray(runtimeScene.getObjects("Food2"), gdjs.GameplayCode.GDFood2Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Food3"), gdjs.GameplayCode.GDFood3Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Food4"), gdjs.GameplayCode.GDFood4Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food5"), gdjs.GameplayCode.GDFood5Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food6"), gdjs.GameplayCode.GDFood6Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food7"), gdjs.GameplayCode.GDFood7Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food8"), gdjs.GameplayCode.GDFood8Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Knife"), gdjs.GameplayCode.GDKnifeObjects1);
 
 gdjs.GameplayCode.condition0IsTrue_0.val = false;
 gdjs.GameplayCode.condition1IsTrue_0.val = false;
 gdjs.GameplayCode.condition2IsTrue_0.val = false;
 {
-gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDKnifeObjects1Objects, gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects, false, runtimeScene, false);
+gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDKnifeObjects1Objects, gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects, false, runtimeScene, false);
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
-gdjs.GameplayCode.condition1IsTrue_0.val = gdjs.evtTools.object.pickedObjectsCount(gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects) > 0;
+gdjs.GameplayCode.condition1IsTrue_0.val = gdjs.evtTools.object.pickedObjectsCount(gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects) > 0;
 }if ( gdjs.GameplayCode.condition1IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition2IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9887084);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9978820);
 }
 }}
 }
@@ -441,7 +691,7 @@ gdjs.GameplayCode.eventsList2(runtimeScene);} //End of subevents
 }
 
 
-};gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDMasherObjects1Objects = Hashtable.newFrom({"Masher": gdjs.GameplayCode.GDMasherObjects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDLifeObjects2Objects = Hashtable.newFrom({"Life": gdjs.GameplayCode.GDLifeObjects2});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95954Objects1Objects = Hashtable.newFrom({"Food1_1": gdjs.GameplayCode.GDFood1_951Objects1, "Food1_2": gdjs.GameplayCode.GDFood1_952Objects1, "Food2_2": gdjs.GameplayCode.GDFood2_952Objects1, "Food3_1": gdjs.GameplayCode.GDFood3_951Objects1, "Food3_2": gdjs.GameplayCode.GDFood3_952Objects1, "Food4_1": gdjs.GameplayCode.GDFood4_951Objects1, "Food4_2": gdjs.GameplayCode.GDFood4_952Objects1, "Food2_1": gdjs.GameplayCode.GDFood2_951Objects1, "Food1_3": gdjs.GameplayCode.GDFood1_953Objects1, "Food2_3": gdjs.GameplayCode.GDFood2_953Objects1, "Food3_3": gdjs.GameplayCode.GDFood3_953Objects1, "Food4_3": gdjs.GameplayCode.GDFood4_953Objects1, "Food1_4": gdjs.GameplayCode.GDFood1_954Objects1, "Food2_4": gdjs.GameplayCode.GDFood2_954Objects1, "Food3_4": gdjs.GameplayCode.GDFood3_954Objects1, "Food4_4": gdjs.GameplayCode.GDFood4_954Objects1});gdjs.GameplayCode.eventsList4 = function(runtimeScene) {
+};gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDMasherObjects1Objects = Hashtable.newFrom({"Masher": gdjs.GameplayCode.GDMasherObjects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1, "Food5": gdjs.GameplayCode.GDFood5Objects1, "Food6": gdjs.GameplayCode.GDFood6Objects1, "Food7": gdjs.GameplayCode.GDFood7Objects1, "Food8": gdjs.GameplayCode.GDFood8Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1, "Food5": gdjs.GameplayCode.GDFood5Objects1, "Food6": gdjs.GameplayCode.GDFood6Objects1, "Food7": gdjs.GameplayCode.GDFood7Objects1, "Food8": gdjs.GameplayCode.GDFood8Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDLifeObjects2Objects = Hashtable.newFrom({"Life": gdjs.GameplayCode.GDLifeObjects2});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95954Objects1Objects = Hashtable.newFrom({"Food1_1": gdjs.GameplayCode.GDFood1_951Objects1, "Food1_2": gdjs.GameplayCode.GDFood1_952Objects1, "Food2_2": gdjs.GameplayCode.GDFood2_952Objects1, "Food3_1": gdjs.GameplayCode.GDFood3_951Objects1, "Food3_2": gdjs.GameplayCode.GDFood3_952Objects1, "Food4_1": gdjs.GameplayCode.GDFood4_951Objects1, "Food4_2": gdjs.GameplayCode.GDFood4_952Objects1, "Food2_1": gdjs.GameplayCode.GDFood2_951Objects1, "Food1_3": gdjs.GameplayCode.GDFood1_953Objects1, "Food2_3": gdjs.GameplayCode.GDFood2_953Objects1, "Food3_3": gdjs.GameplayCode.GDFood3_953Objects1, "Food4_3": gdjs.GameplayCode.GDFood4_953Objects1, "Food1_4": gdjs.GameplayCode.GDFood1_954Objects1, "Food2_4": gdjs.GameplayCode.GDFood2_954Objects1, "Food3_4": gdjs.GameplayCode.GDFood3_954Objects1, "Food4_4": gdjs.GameplayCode.GDFood4_954Objects1, "Food5_1": gdjs.GameplayCode.GDFood5_951Objects1, "Food5_2": gdjs.GameplayCode.GDFood5_952Objects1, "Food5_3": gdjs.GameplayCode.GDFood5_953Objects1, "Food5_4": gdjs.GameplayCode.GDFood5_954Objects1, "Food6_1": gdjs.GameplayCode.GDFood6_951Objects1, "Food6_2": gdjs.GameplayCode.GDFood6_952Objects1, "Food6_3": gdjs.GameplayCode.GDFood6_953Objects1, "Food6_4": gdjs.GameplayCode.GDFood6_954Objects1, "Food7_1": gdjs.GameplayCode.GDFood7_951Objects1, "Food7_2": gdjs.GameplayCode.GDFood7_952Objects1, "Food7_3": gdjs.GameplayCode.GDFood7_953Objects1, "Food7_4": gdjs.GameplayCode.GDFood7_954Objects1, "Food8_1": gdjs.GameplayCode.GDFood8_951Objects1, "Food8_2": gdjs.GameplayCode.GDFood8_952Objects1, "Food8_3": gdjs.GameplayCode.GDFood8_953Objects1, "Food8_4": gdjs.GameplayCode.GDFood8_954Objects1});gdjs.GameplayCode.eventsList4 = function(runtimeScene) {
 
 {
 
@@ -477,7 +727,7 @@ if( gdjs.GameplayCode.condition2IsTrue_1.val ) {
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9895668);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9987404);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
@@ -505,6 +755,30 @@ gdjs.copyArray(runtimeScene.getObjects("Food4_1"), gdjs.GameplayCode.GDFood4_951
 gdjs.copyArray(runtimeScene.getObjects("Food4_2"), gdjs.GameplayCode.GDFood4_952Objects2);
 gdjs.copyArray(runtimeScene.getObjects("Food4_3"), gdjs.GameplayCode.GDFood4_953Objects2);
 gdjs.copyArray(runtimeScene.getObjects("Food4_4"), gdjs.GameplayCode.GDFood4_954Objects2);
+gdjs.copyArray(gdjs.GameplayCode.GDFood5Objects1, gdjs.GameplayCode.GDFood5Objects2);
+
+gdjs.copyArray(runtimeScene.getObjects("Food5_1"), gdjs.GameplayCode.GDFood5_951Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food5_2"), gdjs.GameplayCode.GDFood5_952Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food5_3"), gdjs.GameplayCode.GDFood5_953Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food5_4"), gdjs.GameplayCode.GDFood5_954Objects2);
+gdjs.copyArray(gdjs.GameplayCode.GDFood6Objects1, gdjs.GameplayCode.GDFood6Objects2);
+
+gdjs.copyArray(runtimeScene.getObjects("Food6_1"), gdjs.GameplayCode.GDFood6_951Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food6_2"), gdjs.GameplayCode.GDFood6_952Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food6_3"), gdjs.GameplayCode.GDFood6_953Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food6_4"), gdjs.GameplayCode.GDFood6_954Objects2);
+gdjs.copyArray(gdjs.GameplayCode.GDFood7Objects1, gdjs.GameplayCode.GDFood7Objects2);
+
+gdjs.copyArray(runtimeScene.getObjects("Food7_1"), gdjs.GameplayCode.GDFood7_951Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food7_2"), gdjs.GameplayCode.GDFood7_952Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food7_3"), gdjs.GameplayCode.GDFood7_953Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food7_4"), gdjs.GameplayCode.GDFood7_954Objects2);
+gdjs.copyArray(gdjs.GameplayCode.GDFood8Objects1, gdjs.GameplayCode.GDFood8Objects2);
+
+gdjs.copyArray(runtimeScene.getObjects("Food8_1"), gdjs.GameplayCode.GDFood8_951Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food8_2"), gdjs.GameplayCode.GDFood8_952Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food8_3"), gdjs.GameplayCode.GDFood8_953Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food8_4"), gdjs.GameplayCode.GDFood8_954Objects2);
 gdjs.GameplayCode.GDLifeObjects2.length = 0;
 
 {for(var i = 0, len = gdjs.GameplayCode.GDFood1Objects2.length ;i < len;++i) {
@@ -518,6 +792,18 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood3Objects2.length ;i < len;++i) {
 }
 for(var i = 0, len = gdjs.GameplayCode.GDFood4Objects2.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood4Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8Objects2[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.GameplayCode.GDFood1_951Objects2.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood1_951Objects2[i].deleteFromScene(runtimeScene);
@@ -567,6 +853,54 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood3_954Objects2.length ;i < len;++i) 
 for(var i = 0, len = gdjs.GameplayCode.GDFood4_954Objects2.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood4_954Objects2[i].deleteFromScene(runtimeScene);
 }
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_951Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_951Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_952Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_952Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_953Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_953Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_954Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_954Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_951Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_951Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_952Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_952Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_953Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_953Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_954Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_954Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_951Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_951Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_952Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_952Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_953Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_953Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_954Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_954Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_951Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_951Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_952Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_952Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_953Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_953Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_954Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_954Objects2[i].deleteFromScene(runtimeScene);
+}
 }{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDLifeObjects2Objects, 600 + (gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(3)) * 60), 62, "");
 }{for(var i = 0, len = gdjs.GameplayCode.GDLifeObjects2.length ;i < len;++i) {
     gdjs.GameplayCode.GDLifeObjects2[i].setScale(0.5);
@@ -589,7 +923,7 @@ gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumbe
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9897756);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9989492);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
@@ -597,6 +931,10 @@ if (gdjs.GameplayCode.condition1IsTrue_0.val) {
 /* Reuse gdjs.GameplayCode.GDFood2Objects1 */
 /* Reuse gdjs.GameplayCode.GDFood3Objects1 */
 /* Reuse gdjs.GameplayCode.GDFood4Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood5Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood6Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood7Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood8Objects1 */
 gdjs.copyArray(runtimeScene.getObjects("Score"), gdjs.GameplayCode.GDScoreObjects1);
 gdjs.GameplayCode.GDFood1_951Objects1.length = 0;
 
@@ -630,7 +968,39 @@ gdjs.GameplayCode.GDFood4_953Objects1.length = 0;
 
 gdjs.GameplayCode.GDFood4_954Objects1.length = 0;
 
-{gdjs.evtTools.object.createObjectFromGroupOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95954Objects1Objects, "Food" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(0)) + "_" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(1)), (( gdjs.GameplayCode.GDFood4Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood3Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood2Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood1Objects1.length === 0 ) ? 0 :gdjs.GameplayCode.GDFood1Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood2Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood3Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood4Objects1[0].getPointX("")), (( gdjs.GameplayCode.GDFood4Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood3Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood2Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood1Objects1.length === 0 ) ? 0 :gdjs.GameplayCode.GDFood1Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood2Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood3Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood4Objects1[0].getPointY("")), "");
+gdjs.GameplayCode.GDFood5_951Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood5_952Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood5_953Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood5_954Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood6_951Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood6_952Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood6_953Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood6_954Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood7_951Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood7_952Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood7_953Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood7_954Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood8_951Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood8_952Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood8_953Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood8_954Objects1.length = 0;
+
+{gdjs.evtTools.object.createObjectFromGroupOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95954Objects1Objects, "Food" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(0)) + "_" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(1)), (( gdjs.GameplayCode.GDFood8Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood7Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood6Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood5Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood4Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood3Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood2Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood1Objects1.length === 0 ) ? 0 :gdjs.GameplayCode.GDFood1Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood2Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood3Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood4Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood5Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood6Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood7Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood8Objects1[0].getPointX("")), (( gdjs.GameplayCode.GDFood8Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood7Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood6Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood5Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood4Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood3Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood2Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood1Objects1.length === 0 ) ? 0 :gdjs.GameplayCode.GDFood1Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood2Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood3Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood4Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood5Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood6Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood7Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood8Objects1[0].getPointY("")), "");
 }{for(var i = 0, len = gdjs.GameplayCode.GDFood1_951Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood1_951Objects1[i].setScale(1.5);
 }
@@ -679,6 +1049,54 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood3_954Objects1.length ;i < len;++i) 
 for(var i = 0, len = gdjs.GameplayCode.GDFood4_954Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood4_954Objects1[i].setScale(1.5);
 }
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_951Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_952Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_953Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_954Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_951Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_952Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_953Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_954Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_951Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_952Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_953Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_954Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_951Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_952Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_953Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_954Objects1[i].setScale(1.5);
+}
 }{for(var i = 0, len = gdjs.GameplayCode.GDFood1Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood1Objects1[i].deleteFromScene(runtimeScene);
 }
@@ -690,6 +1108,18 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood3Objects1.length ;i < len;++i) {
 }
 for(var i = 0, len = gdjs.GameplayCode.GDFood4Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood4Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8Objects1[i].deleteFromScene(runtimeScene);
 }
 }{gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "FoodPrepared");
 }{runtimeScene.getVariables().getFromIndex(2).add(1);
@@ -710,20 +1140,24 @@ gdjs.copyArray(runtimeScene.getObjects("Food1"), gdjs.GameplayCode.GDFood1Object
 gdjs.copyArray(runtimeScene.getObjects("Food2"), gdjs.GameplayCode.GDFood2Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Food3"), gdjs.GameplayCode.GDFood3Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Food4"), gdjs.GameplayCode.GDFood4Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food5"), gdjs.GameplayCode.GDFood5Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food6"), gdjs.GameplayCode.GDFood6Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food7"), gdjs.GameplayCode.GDFood7Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food8"), gdjs.GameplayCode.GDFood8Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Masher"), gdjs.GameplayCode.GDMasherObjects1);
 
 gdjs.GameplayCode.condition0IsTrue_0.val = false;
 gdjs.GameplayCode.condition1IsTrue_0.val = false;
 gdjs.GameplayCode.condition2IsTrue_0.val = false;
 {
-gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDMasherObjects1Objects, gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects, false, runtimeScene, false);
+gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDMasherObjects1Objects, gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects, false, runtimeScene, false);
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
-gdjs.GameplayCode.condition1IsTrue_0.val = gdjs.evtTools.object.pickedObjectsCount(gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects) > 0;
+gdjs.GameplayCode.condition1IsTrue_0.val = gdjs.evtTools.object.pickedObjectsCount(gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects) > 0;
 }if ( gdjs.GameplayCode.condition1IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition2IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9893868);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9985604);
 }
 }}
 }
@@ -737,7 +1171,7 @@ gdjs.GameplayCode.eventsList4(runtimeScene);} //End of subevents
 }
 
 
-};gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDPeelerObjects1Objects = Hashtable.newFrom({"Peeler": gdjs.GameplayCode.GDPeelerObjects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDLifeObjects2Objects = Hashtable.newFrom({"Life": gdjs.GameplayCode.GDLifeObjects2});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95954Objects1Objects = Hashtable.newFrom({"Food1_1": gdjs.GameplayCode.GDFood1_951Objects1, "Food1_2": gdjs.GameplayCode.GDFood1_952Objects1, "Food2_2": gdjs.GameplayCode.GDFood2_952Objects1, "Food3_1": gdjs.GameplayCode.GDFood3_951Objects1, "Food3_2": gdjs.GameplayCode.GDFood3_952Objects1, "Food4_1": gdjs.GameplayCode.GDFood4_951Objects1, "Food4_2": gdjs.GameplayCode.GDFood4_952Objects1, "Food2_1": gdjs.GameplayCode.GDFood2_951Objects1, "Food1_3": gdjs.GameplayCode.GDFood1_953Objects1, "Food2_3": gdjs.GameplayCode.GDFood2_953Objects1, "Food3_3": gdjs.GameplayCode.GDFood3_953Objects1, "Food4_3": gdjs.GameplayCode.GDFood4_953Objects1, "Food1_4": gdjs.GameplayCode.GDFood1_954Objects1, "Food2_4": gdjs.GameplayCode.GDFood2_954Objects1, "Food3_4": gdjs.GameplayCode.GDFood3_954Objects1, "Food4_4": gdjs.GameplayCode.GDFood4_954Objects1});gdjs.GameplayCode.eventsList6 = function(runtimeScene) {
+};gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDPeelerObjects1Objects = Hashtable.newFrom({"Peeler": gdjs.GameplayCode.GDPeelerObjects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1, "Food5": gdjs.GameplayCode.GDFood5Objects1, "Food6": gdjs.GameplayCode.GDFood6Objects1, "Food7": gdjs.GameplayCode.GDFood7Objects1, "Food8": gdjs.GameplayCode.GDFood8Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1, "Food5": gdjs.GameplayCode.GDFood5Objects1, "Food6": gdjs.GameplayCode.GDFood6Objects1, "Food7": gdjs.GameplayCode.GDFood7Objects1, "Food8": gdjs.GameplayCode.GDFood8Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDLifeObjects2Objects = Hashtable.newFrom({"Life": gdjs.GameplayCode.GDLifeObjects2});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95954Objects1Objects = Hashtable.newFrom({"Food1_1": gdjs.GameplayCode.GDFood1_951Objects1, "Food1_2": gdjs.GameplayCode.GDFood1_952Objects1, "Food2_2": gdjs.GameplayCode.GDFood2_952Objects1, "Food3_1": gdjs.GameplayCode.GDFood3_951Objects1, "Food3_2": gdjs.GameplayCode.GDFood3_952Objects1, "Food4_1": gdjs.GameplayCode.GDFood4_951Objects1, "Food4_2": gdjs.GameplayCode.GDFood4_952Objects1, "Food2_1": gdjs.GameplayCode.GDFood2_951Objects1, "Food1_3": gdjs.GameplayCode.GDFood1_953Objects1, "Food2_3": gdjs.GameplayCode.GDFood2_953Objects1, "Food3_3": gdjs.GameplayCode.GDFood3_953Objects1, "Food4_3": gdjs.GameplayCode.GDFood4_953Objects1, "Food1_4": gdjs.GameplayCode.GDFood1_954Objects1, "Food2_4": gdjs.GameplayCode.GDFood2_954Objects1, "Food3_4": gdjs.GameplayCode.GDFood3_954Objects1, "Food4_4": gdjs.GameplayCode.GDFood4_954Objects1, "Food5_1": gdjs.GameplayCode.GDFood5_951Objects1, "Food5_2": gdjs.GameplayCode.GDFood5_952Objects1, "Food5_3": gdjs.GameplayCode.GDFood5_953Objects1, "Food5_4": gdjs.GameplayCode.GDFood5_954Objects1, "Food6_1": gdjs.GameplayCode.GDFood6_951Objects1, "Food6_2": gdjs.GameplayCode.GDFood6_952Objects1, "Food6_3": gdjs.GameplayCode.GDFood6_953Objects1, "Food6_4": gdjs.GameplayCode.GDFood6_954Objects1, "Food7_1": gdjs.GameplayCode.GDFood7_951Objects1, "Food7_2": gdjs.GameplayCode.GDFood7_952Objects1, "Food7_3": gdjs.GameplayCode.GDFood7_953Objects1, "Food7_4": gdjs.GameplayCode.GDFood7_954Objects1, "Food8_1": gdjs.GameplayCode.GDFood8_951Objects1, "Food8_2": gdjs.GameplayCode.GDFood8_952Objects1, "Food8_3": gdjs.GameplayCode.GDFood8_953Objects1, "Food8_4": gdjs.GameplayCode.GDFood8_954Objects1});gdjs.GameplayCode.eventsList6 = function(runtimeScene) {
 
 {
 
@@ -773,7 +1207,7 @@ if( gdjs.GameplayCode.condition2IsTrue_1.val ) {
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9902308);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9994044);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
@@ -801,6 +1235,30 @@ gdjs.copyArray(runtimeScene.getObjects("Food4_1"), gdjs.GameplayCode.GDFood4_951
 gdjs.copyArray(runtimeScene.getObjects("Food4_2"), gdjs.GameplayCode.GDFood4_952Objects2);
 gdjs.copyArray(runtimeScene.getObjects("Food4_3"), gdjs.GameplayCode.GDFood4_953Objects2);
 gdjs.copyArray(runtimeScene.getObjects("Food4_4"), gdjs.GameplayCode.GDFood4_954Objects2);
+gdjs.copyArray(gdjs.GameplayCode.GDFood5Objects1, gdjs.GameplayCode.GDFood5Objects2);
+
+gdjs.copyArray(runtimeScene.getObjects("Food5_1"), gdjs.GameplayCode.GDFood5_951Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food5_2"), gdjs.GameplayCode.GDFood5_952Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food5_3"), gdjs.GameplayCode.GDFood5_953Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food5_4"), gdjs.GameplayCode.GDFood5_954Objects2);
+gdjs.copyArray(gdjs.GameplayCode.GDFood6Objects1, gdjs.GameplayCode.GDFood6Objects2);
+
+gdjs.copyArray(runtimeScene.getObjects("Food6_1"), gdjs.GameplayCode.GDFood6_951Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food6_2"), gdjs.GameplayCode.GDFood6_952Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food6_3"), gdjs.GameplayCode.GDFood6_953Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food6_4"), gdjs.GameplayCode.GDFood6_954Objects2);
+gdjs.copyArray(gdjs.GameplayCode.GDFood7Objects1, gdjs.GameplayCode.GDFood7Objects2);
+
+gdjs.copyArray(runtimeScene.getObjects("Food7_1"), gdjs.GameplayCode.GDFood7_951Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food7_2"), gdjs.GameplayCode.GDFood7_952Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food7_3"), gdjs.GameplayCode.GDFood7_953Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food7_4"), gdjs.GameplayCode.GDFood7_954Objects2);
+gdjs.copyArray(gdjs.GameplayCode.GDFood8Objects1, gdjs.GameplayCode.GDFood8Objects2);
+
+gdjs.copyArray(runtimeScene.getObjects("Food8_1"), gdjs.GameplayCode.GDFood8_951Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food8_2"), gdjs.GameplayCode.GDFood8_952Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food8_3"), gdjs.GameplayCode.GDFood8_953Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food8_4"), gdjs.GameplayCode.GDFood8_954Objects2);
 gdjs.GameplayCode.GDLifeObjects2.length = 0;
 
 {for(var i = 0, len = gdjs.GameplayCode.GDFood1Objects2.length ;i < len;++i) {
@@ -814,6 +1272,18 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood3Objects2.length ;i < len;++i) {
 }
 for(var i = 0, len = gdjs.GameplayCode.GDFood4Objects2.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood4Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8Objects2[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.GameplayCode.GDFood1_951Objects2.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood1_951Objects2[i].deleteFromScene(runtimeScene);
@@ -863,6 +1333,54 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood3_954Objects2.length ;i < len;++i) 
 for(var i = 0, len = gdjs.GameplayCode.GDFood4_954Objects2.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood4_954Objects2[i].deleteFromScene(runtimeScene);
 }
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_951Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_951Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_952Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_952Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_953Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_953Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_954Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_954Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_951Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_951Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_952Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_952Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_953Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_953Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_954Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_954Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_951Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_951Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_952Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_952Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_953Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_953Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_954Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_954Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_951Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_951Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_952Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_952Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_953Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_953Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_954Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_954Objects2[i].deleteFromScene(runtimeScene);
+}
 }{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDLifeObjects2Objects, 600 + (gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(3)) * 60), 42, "");
 }{for(var i = 0, len = gdjs.GameplayCode.GDLifeObjects2.length ;i < len;++i) {
     gdjs.GameplayCode.GDLifeObjects2[i].setScale(0.5);
@@ -885,7 +1403,7 @@ gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumbe
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9904444);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9996180);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
@@ -893,6 +1411,10 @@ if (gdjs.GameplayCode.condition1IsTrue_0.val) {
 /* Reuse gdjs.GameplayCode.GDFood2Objects1 */
 /* Reuse gdjs.GameplayCode.GDFood3Objects1 */
 /* Reuse gdjs.GameplayCode.GDFood4Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood5Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood6Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood7Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood8Objects1 */
 gdjs.copyArray(runtimeScene.getObjects("Score"), gdjs.GameplayCode.GDScoreObjects1);
 gdjs.GameplayCode.GDFood1_951Objects1.length = 0;
 
@@ -926,7 +1448,39 @@ gdjs.GameplayCode.GDFood4_953Objects1.length = 0;
 
 gdjs.GameplayCode.GDFood4_954Objects1.length = 0;
 
-{gdjs.evtTools.object.createObjectFromGroupOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95954Objects1Objects, "Food" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(0)) + "_" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(1)), (( gdjs.GameplayCode.GDFood4Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood3Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood2Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood1Objects1.length === 0 ) ? 0 :gdjs.GameplayCode.GDFood1Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood2Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood3Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood4Objects1[0].getPointX("")), (( gdjs.GameplayCode.GDFood4Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood3Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood2Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood1Objects1.length === 0 ) ? 0 :gdjs.GameplayCode.GDFood1Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood2Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood3Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood4Objects1[0].getPointY("")), "");
+gdjs.GameplayCode.GDFood5_951Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood5_952Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood5_953Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood5_954Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood6_951Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood6_952Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood6_953Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood6_954Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood7_951Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood7_952Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood7_953Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood7_954Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood8_951Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood8_952Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood8_953Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood8_954Objects1.length = 0;
+
+{gdjs.evtTools.object.createObjectFromGroupOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95954Objects1Objects, "Food" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(0)) + "_" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(1)), (( gdjs.GameplayCode.GDFood8Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood7Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood6Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood5Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood4Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood3Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood2Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood1Objects1.length === 0 ) ? 0 :gdjs.GameplayCode.GDFood1Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood2Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood3Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood4Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood5Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood6Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood7Objects1[0].getPointX("")) :gdjs.GameplayCode.GDFood8Objects1[0].getPointX("")), (( gdjs.GameplayCode.GDFood8Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood7Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood6Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood5Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood4Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood3Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood2Objects1.length === 0 ) ? (( gdjs.GameplayCode.GDFood1Objects1.length === 0 ) ? 0 :gdjs.GameplayCode.GDFood1Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood2Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood3Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood4Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood5Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood6Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood7Objects1[0].getPointY("")) :gdjs.GameplayCode.GDFood8Objects1[0].getPointY("")), "");
 }{for(var i = 0, len = gdjs.GameplayCode.GDFood1_951Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood1_951Objects1[i].setScale(1.5);
 }
@@ -975,6 +1529,54 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood3_954Objects1.length ;i < len;++i) 
 for(var i = 0, len = gdjs.GameplayCode.GDFood4_954Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood4_954Objects1[i].setScale(1.5);
 }
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_951Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_952Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_953Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_954Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_951Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_952Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_953Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_954Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_951Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_952Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_953Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_954Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_951Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_952Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_953Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_954Objects1[i].setScale(1.5);
+}
 }{for(var i = 0, len = gdjs.GameplayCode.GDFood1Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood1Objects1[i].deleteFromScene(runtimeScene);
 }
@@ -986,6 +1588,18 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood3Objects1.length ;i < len;++i) {
 }
 for(var i = 0, len = gdjs.GameplayCode.GDFood4Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood4Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8Objects1[i].deleteFromScene(runtimeScene);
 }
 }{gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "FoodPrepared");
 }{runtimeScene.getVariables().getFromIndex(2).add(1);
@@ -1006,20 +1620,24 @@ gdjs.copyArray(runtimeScene.getObjects("Food1"), gdjs.GameplayCode.GDFood1Object
 gdjs.copyArray(runtimeScene.getObjects("Food2"), gdjs.GameplayCode.GDFood2Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Food3"), gdjs.GameplayCode.GDFood3Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Food4"), gdjs.GameplayCode.GDFood4Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food5"), gdjs.GameplayCode.GDFood5Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food6"), gdjs.GameplayCode.GDFood6Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food7"), gdjs.GameplayCode.GDFood7Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food8"), gdjs.GameplayCode.GDFood8Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Peeler"), gdjs.GameplayCode.GDPeelerObjects1);
 
 gdjs.GameplayCode.condition0IsTrue_0.val = false;
 gdjs.GameplayCode.condition1IsTrue_0.val = false;
 gdjs.GameplayCode.condition2IsTrue_0.val = false;
 {
-gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDPeelerObjects1Objects, gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects, false, runtimeScene, false);
+gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDPeelerObjects1Objects, gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects, false, runtimeScene, false);
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
-gdjs.GameplayCode.condition1IsTrue_0.val = gdjs.evtTools.object.pickedObjectsCount(gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects) > 0;
+gdjs.GameplayCode.condition1IsTrue_0.val = gdjs.evtTools.object.pickedObjectsCount(gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects) > 0;
 }if ( gdjs.GameplayCode.condition1IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition2IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9900884);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9992620);
 }
 }}
 }
@@ -1033,7 +1651,7 @@ gdjs.GameplayCode.eventsList6(runtimeScene);} //End of subevents
 }
 
 
-};gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDPizzaObjects1Objects = Hashtable.newFrom({"Pizza": gdjs.GameplayCode.GDPizzaObjects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDLifeObjects2Objects = Hashtable.newFrom({"Life": gdjs.GameplayCode.GDLifeObjects2});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95954Objects1Objects = Hashtable.newFrom({"Food1_1": gdjs.GameplayCode.GDFood1_951Objects1, "Food1_2": gdjs.GameplayCode.GDFood1_952Objects1, "Food2_2": gdjs.GameplayCode.GDFood2_952Objects1, "Food3_1": gdjs.GameplayCode.GDFood3_951Objects1, "Food3_2": gdjs.GameplayCode.GDFood3_952Objects1, "Food4_1": gdjs.GameplayCode.GDFood4_951Objects1, "Food4_2": gdjs.GameplayCode.GDFood4_952Objects1, "Food2_1": gdjs.GameplayCode.GDFood2_951Objects1, "Food1_3": gdjs.GameplayCode.GDFood1_953Objects1, "Food2_3": gdjs.GameplayCode.GDFood2_953Objects1, "Food3_3": gdjs.GameplayCode.GDFood3_953Objects1, "Food4_3": gdjs.GameplayCode.GDFood4_953Objects1, "Food1_4": gdjs.GameplayCode.GDFood1_954Objects1, "Food2_4": gdjs.GameplayCode.GDFood2_954Objects1, "Food3_4": gdjs.GameplayCode.GDFood3_954Objects1, "Food4_4": gdjs.GameplayCode.GDFood4_954Objects1});gdjs.GameplayCode.eventsList8 = function(runtimeScene) {
+};gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDPizzaObjects1Objects = Hashtable.newFrom({"Pizza": gdjs.GameplayCode.GDPizzaObjects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1, "Food5": gdjs.GameplayCode.GDFood5Objects1, "Food6": gdjs.GameplayCode.GDFood6Objects1, "Food7": gdjs.GameplayCode.GDFood7Objects1, "Food8": gdjs.GameplayCode.GDFood8Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1, "Food5": gdjs.GameplayCode.GDFood5Objects1, "Food6": gdjs.GameplayCode.GDFood6Objects1, "Food7": gdjs.GameplayCode.GDFood7Objects1, "Food8": gdjs.GameplayCode.GDFood8Objects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDLifeObjects2Objects = Hashtable.newFrom({"Life": gdjs.GameplayCode.GDLifeObjects2});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95954Objects1Objects = Hashtable.newFrom({"Food1_1": gdjs.GameplayCode.GDFood1_951Objects1, "Food1_2": gdjs.GameplayCode.GDFood1_952Objects1, "Food2_2": gdjs.GameplayCode.GDFood2_952Objects1, "Food3_1": gdjs.GameplayCode.GDFood3_951Objects1, "Food3_2": gdjs.GameplayCode.GDFood3_952Objects1, "Food4_1": gdjs.GameplayCode.GDFood4_951Objects1, "Food4_2": gdjs.GameplayCode.GDFood4_952Objects1, "Food2_1": gdjs.GameplayCode.GDFood2_951Objects1, "Food1_3": gdjs.GameplayCode.GDFood1_953Objects1, "Food2_3": gdjs.GameplayCode.GDFood2_953Objects1, "Food3_3": gdjs.GameplayCode.GDFood3_953Objects1, "Food4_3": gdjs.GameplayCode.GDFood4_953Objects1, "Food1_4": gdjs.GameplayCode.GDFood1_954Objects1, "Food2_4": gdjs.GameplayCode.GDFood2_954Objects1, "Food3_4": gdjs.GameplayCode.GDFood3_954Objects1, "Food4_4": gdjs.GameplayCode.GDFood4_954Objects1, "Food5_1": gdjs.GameplayCode.GDFood5_951Objects1, "Food5_2": gdjs.GameplayCode.GDFood5_952Objects1, "Food5_3": gdjs.GameplayCode.GDFood5_953Objects1, "Food5_4": gdjs.GameplayCode.GDFood5_954Objects1, "Food6_1": gdjs.GameplayCode.GDFood6_951Objects1, "Food6_2": gdjs.GameplayCode.GDFood6_952Objects1, "Food6_3": gdjs.GameplayCode.GDFood6_953Objects1, "Food6_4": gdjs.GameplayCode.GDFood6_954Objects1, "Food7_1": gdjs.GameplayCode.GDFood7_951Objects1, "Food7_2": gdjs.GameplayCode.GDFood7_952Objects1, "Food7_3": gdjs.GameplayCode.GDFood7_953Objects1, "Food7_4": gdjs.GameplayCode.GDFood7_954Objects1, "Food8_1": gdjs.GameplayCode.GDFood8_951Objects1, "Food8_2": gdjs.GameplayCode.GDFood8_952Objects1, "Food8_3": gdjs.GameplayCode.GDFood8_953Objects1, "Food8_4": gdjs.GameplayCode.GDFood8_954Objects1});gdjs.GameplayCode.eventsList8 = function(runtimeScene) {
 
 {
 
@@ -1069,7 +1687,7 @@ if( gdjs.GameplayCode.condition2IsTrue_1.val ) {
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9908988);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10000724);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
@@ -1097,6 +1715,30 @@ gdjs.copyArray(runtimeScene.getObjects("Food4_1"), gdjs.GameplayCode.GDFood4_951
 gdjs.copyArray(runtimeScene.getObjects("Food4_2"), gdjs.GameplayCode.GDFood4_952Objects2);
 gdjs.copyArray(runtimeScene.getObjects("Food4_3"), gdjs.GameplayCode.GDFood4_953Objects2);
 gdjs.copyArray(runtimeScene.getObjects("Food4_4"), gdjs.GameplayCode.GDFood4_954Objects2);
+gdjs.copyArray(gdjs.GameplayCode.GDFood5Objects1, gdjs.GameplayCode.GDFood5Objects2);
+
+gdjs.copyArray(runtimeScene.getObjects("Food5_1"), gdjs.GameplayCode.GDFood5_951Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food5_2"), gdjs.GameplayCode.GDFood5_952Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food5_3"), gdjs.GameplayCode.GDFood5_953Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food5_4"), gdjs.GameplayCode.GDFood5_954Objects2);
+gdjs.copyArray(gdjs.GameplayCode.GDFood6Objects1, gdjs.GameplayCode.GDFood6Objects2);
+
+gdjs.copyArray(runtimeScene.getObjects("Food6_1"), gdjs.GameplayCode.GDFood6_951Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food6_2"), gdjs.GameplayCode.GDFood6_952Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food6_3"), gdjs.GameplayCode.GDFood6_953Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food6_4"), gdjs.GameplayCode.GDFood6_954Objects2);
+gdjs.copyArray(gdjs.GameplayCode.GDFood7Objects1, gdjs.GameplayCode.GDFood7Objects2);
+
+gdjs.copyArray(runtimeScene.getObjects("Food7_1"), gdjs.GameplayCode.GDFood7_951Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food7_2"), gdjs.GameplayCode.GDFood7_952Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food7_3"), gdjs.GameplayCode.GDFood7_953Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food7_4"), gdjs.GameplayCode.GDFood7_954Objects2);
+gdjs.copyArray(gdjs.GameplayCode.GDFood8Objects1, gdjs.GameplayCode.GDFood8Objects2);
+
+gdjs.copyArray(runtimeScene.getObjects("Food8_1"), gdjs.GameplayCode.GDFood8_951Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food8_2"), gdjs.GameplayCode.GDFood8_952Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food8_3"), gdjs.GameplayCode.GDFood8_953Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Food8_4"), gdjs.GameplayCode.GDFood8_954Objects2);
 gdjs.GameplayCode.GDLifeObjects2.length = 0;
 
 {for(var i = 0, len = gdjs.GameplayCode.GDFood1Objects2.length ;i < len;++i) {
@@ -1110,6 +1752,18 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood3Objects2.length ;i < len;++i) {
 }
 for(var i = 0, len = gdjs.GameplayCode.GDFood4Objects2.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood4Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8Objects2[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.GameplayCode.GDFood1_951Objects2.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood1_951Objects2[i].deleteFromScene(runtimeScene);
@@ -1159,6 +1813,54 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood3_954Objects2.length ;i < len;++i) 
 for(var i = 0, len = gdjs.GameplayCode.GDFood4_954Objects2.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood4_954Objects2[i].deleteFromScene(runtimeScene);
 }
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_951Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_951Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_952Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_952Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_953Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_953Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_954Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_954Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_951Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_951Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_952Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_952Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_953Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_953Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_954Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_954Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_951Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_951Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_952Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_952Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_953Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_953Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_954Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_954Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_951Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_951Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_952Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_952Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_953Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_953Objects2[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_954Objects2.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_954Objects2[i].deleteFromScene(runtimeScene);
+}
 }{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDLifeObjects2Objects, 600 + (gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(3)) * 60), 62, "");
 }{for(var i = 0, len = gdjs.GameplayCode.GDLifeObjects2.length ;i < len;++i) {
     gdjs.GameplayCode.GDLifeObjects2[i].setScale(0.5);
@@ -1181,7 +1883,7 @@ gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumbe
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9911076);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10002812);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
@@ -1189,6 +1891,10 @@ if (gdjs.GameplayCode.condition1IsTrue_0.val) {
 /* Reuse gdjs.GameplayCode.GDFood2Objects1 */
 /* Reuse gdjs.GameplayCode.GDFood3Objects1 */
 /* Reuse gdjs.GameplayCode.GDFood4Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood5Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood6Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood7Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood8Objects1 */
 gdjs.copyArray(runtimeScene.getObjects("Score"), gdjs.GameplayCode.GDScoreObjects1);
 gdjs.GameplayCode.GDFood1_951Objects1.length = 0;
 
@@ -1222,7 +1928,39 @@ gdjs.GameplayCode.GDFood4_953Objects1.length = 0;
 
 gdjs.GameplayCode.GDFood4_954Objects1.length = 0;
 
-{gdjs.evtTools.object.createObjectFromGroupOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95954Objects1Objects, "Food" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(0)) + "_" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(1)), 340, 440, "");
+gdjs.GameplayCode.GDFood5_951Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood5_952Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood5_953Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood5_954Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood6_951Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood6_952Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood6_953Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood6_954Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood7_951Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood7_952Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood7_953Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood7_954Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood8_951Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood8_952Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood8_953Objects1.length = 0;
+
+gdjs.GameplayCode.GDFood8_954Objects1.length = 0;
+
+{gdjs.evtTools.object.createObjectFromGroupOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95954Objects1Objects, "Food" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(0)) + "_" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(1)), 340, 440, "");
 }{for(var i = 0, len = gdjs.GameplayCode.GDFood1_951Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood1_951Objects1[i].setScale(1.5);
 }
@@ -1271,6 +2009,54 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood3_954Objects1.length ;i < len;++i) 
 for(var i = 0, len = gdjs.GameplayCode.GDFood4_954Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood4_954Objects1[i].setScale(1.5);
 }
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_951Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_952Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_953Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_954Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_951Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_952Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_953Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_954Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_951Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_952Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_953Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_954Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_951Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_952Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_953Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_954Objects1[i].setScale(1.5);
+}
 }{for(var i = 0, len = gdjs.GameplayCode.GDFood1Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood1Objects1[i].deleteFromScene(runtimeScene);
 }
@@ -1282,6 +2068,18 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood3Objects1.length ;i < len;++i) {
 }
 for(var i = 0, len = gdjs.GameplayCode.GDFood4Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood4Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8Objects1[i].deleteFromScene(runtimeScene);
 }
 }{gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "FoodPrepared");
 }{runtimeScene.getVariables().getFromIndex(2).add(1);
@@ -1302,20 +2100,24 @@ gdjs.copyArray(runtimeScene.getObjects("Food1"), gdjs.GameplayCode.GDFood1Object
 gdjs.copyArray(runtimeScene.getObjects("Food2"), gdjs.GameplayCode.GDFood2Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Food3"), gdjs.GameplayCode.GDFood3Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Food4"), gdjs.GameplayCode.GDFood4Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food5"), gdjs.GameplayCode.GDFood5Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food6"), gdjs.GameplayCode.GDFood6Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food7"), gdjs.GameplayCode.GDFood7Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food8"), gdjs.GameplayCode.GDFood8Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Pizza"), gdjs.GameplayCode.GDPizzaObjects1);
 
 gdjs.GameplayCode.condition0IsTrue_0.val = false;
 gdjs.GameplayCode.condition1IsTrue_0.val = false;
 gdjs.GameplayCode.condition2IsTrue_0.val = false;
 {
-gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDPizzaObjects1Objects, gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects, false, runtimeScene, false);
+gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDPizzaObjects1Objects, gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects, false, runtimeScene, false);
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
-gdjs.GameplayCode.condition1IsTrue_0.val = gdjs.evtTools.object.pickedObjectsCount(gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects) > 0;
+gdjs.GameplayCode.condition1IsTrue_0.val = gdjs.evtTools.object.pickedObjectsCount(gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects) > 0;
 }if ( gdjs.GameplayCode.condition1IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition2IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9907564);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9999300);
 }
 }}
 }
@@ -1329,7 +2131,7 @@ gdjs.GameplayCode.eventsList8(runtimeScene);} //End of subevents
 }
 
 
-};gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1});gdjs.GameplayCode.eventsList10 = function(runtimeScene) {
+};gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects = Hashtable.newFrom({"Food1": gdjs.GameplayCode.GDFood1Objects1, "Food2": gdjs.GameplayCode.GDFood2Objects1, "Food3": gdjs.GameplayCode.GDFood3Objects1, "Food4": gdjs.GameplayCode.GDFood4Objects1, "Food5": gdjs.GameplayCode.GDFood5Objects1, "Food6": gdjs.GameplayCode.GDFood6Objects1, "Food7": gdjs.GameplayCode.GDFood7Objects1, "Food8": gdjs.GameplayCode.GDFood8Objects1});gdjs.GameplayCode.eventsList10 = function(runtimeScene) {
 
 {
 
@@ -1342,6 +2144,10 @@ gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonRele
 /* Reuse gdjs.GameplayCode.GDFood2Objects1 */
 /* Reuse gdjs.GameplayCode.GDFood3Objects1 */
 /* Reuse gdjs.GameplayCode.GDFood4Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood5Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood6Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood7Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood8Objects1 */
 {for(var i = 0, len = gdjs.GameplayCode.GDFood1Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood1Objects1[i].clearForces();
 }
@@ -1353,6 +2159,18 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood3Objects1.length ;i < len;++i) {
 }
 for(var i = 0, len = gdjs.GameplayCode.GDFood4Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood4Objects1[i].clearForces();
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5Objects1[i].clearForces();
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6Objects1[i].clearForces();
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7Objects1[i].clearForces();
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8Objects1[i].clearForces();
 }
 }}
 
@@ -1369,11 +2187,11 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood4Objects1.length ;i < len;++i) {
 gdjs.GameplayCode.condition0IsTrue_0.val = false;
 gdjs.GameplayCode.condition1IsTrue_0.val = false;
 {
-gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(4)) == -(1);
+gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(runtimeScene.getVariables().getFromIndex(4), false);
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9915244);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10006972);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
@@ -1394,7 +2212,7 @@ gdjs.GameplayCode.GDUsernameObjects1.length = 0;
 gdjs.GameplayCode.GDUsernameHintObjects1.length = 0;
 
 {gdjs.evtTools.common.setVariableBoolean(runtimeScene.getVariables().getFromIndex(8), true);
-}{runtimeScene.getGame().getVariables().getFromIndex(14).add(gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(2)));
+}{runtimeScene.getGame().getVariables().getFromIndex(10).add(Math.round(gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(11)) * gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(2))));
 }{gdjs.evtTools.common.setVariableBoolean(runtimeScene.getVariables().getFromIndex(7), false);
 }{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDGameOverMenuObjects1Objects, 95, 150, "");
 }{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDGameOverTextObjects1Objects, 315, 200, "");
@@ -1893,7 +2711,7 @@ for(var i = 0, k = 0, l = gdjs.GameplayCode.GDUsernameObjects1.length;i<l;++i) {
 gdjs.GameplayCode.GDUsernameObjects1.length = k;}if ( gdjs.GameplayCode.condition1IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition2IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9937292);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10029068);
 }
 }}
 }
@@ -1926,12 +2744,12 @@ gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runt
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9981076);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10072852);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("Score"), gdjs.GameplayCode.GDScoreObjects2);
-{runtimeScene.getVariables().getFromIndex(2).add(25);
+{runtimeScene.getVariables().getFromIndex(2).add(50);
 }{gdjs.evtTools.runtimeScene.setTimeScale(runtimeScene, 1 + gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(2)) * 0.075);
 }{for(var i = 0, len = gdjs.GameplayCode.GDScoreObjects2.length ;i < len;++i) {
     gdjs.GameplayCode.GDScoreObjects2[i].setString("Score: " + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(2)));
@@ -1951,17 +2769,17 @@ gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runt
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9982412);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10074188);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
-{runtimeScene.getVariables().getFromIndex(4).mul(-(1));
+{gdjs.evtTools.common.toggleVariableBoolean(runtimeScene.getVariables().getFromIndex(4));
 }}
 
 }
 
 
-};gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDVulnerabilityObjects1Objects = Hashtable.newFrom({"Vulnerability": gdjs.GameplayCode.GDVulnerabilityObjects1});gdjs.GameplayCode.eventsList23 = function(runtimeScene) {
+};gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDVulnerabilityObjects1Objects = Hashtable.newFrom({"Vulnerability": gdjs.GameplayCode.GDVulnerabilityObjects1});gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDStatistics1Objects1Objects = Hashtable.newFrom({"Statistics1": gdjs.GameplayCode.GDStatistics1Objects1});gdjs.GameplayCode.eventsList23 = function(runtimeScene) {
 
 {
 
@@ -1980,7 +2798,7 @@ gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.sceneJustB
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9875572);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9967308);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
@@ -2013,7 +2831,11 @@ if (gdjs.GameplayCode.condition1IsTrue_0.val) {
 
 
 {
+gdjs.copyArray(runtimeScene.getObjects("NewObject3"), gdjs.GameplayCode.GDNewObject3Objects1);
+{for(var i = 0, len = gdjs.GameplayCode.GDNewObject3Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDNewObject3Objects1[i].setString(gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(11)));
 }
+}}
 
 }
 
@@ -2031,6 +2853,10 @@ gdjs.copyArray(runtimeScene.getObjects("Food1"), gdjs.GameplayCode.GDFood1Object
 gdjs.copyArray(runtimeScene.getObjects("Food2"), gdjs.GameplayCode.GDFood2Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Food3"), gdjs.GameplayCode.GDFood3Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Food4"), gdjs.GameplayCode.GDFood4Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food5"), gdjs.GameplayCode.GDFood5Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food6"), gdjs.GameplayCode.GDFood6Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food7"), gdjs.GameplayCode.GDFood7Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food8"), gdjs.GameplayCode.GDFood8Objects1);
 
 gdjs.GameplayCode.condition0IsTrue_0.val = false;
 {
@@ -2045,7 +2871,7 @@ gdjs.GameplayCode.condition0IsTrue_1.val = gdjs.evtTools.runtimeScene.timerElaps
 gdjs.GameplayCode.condition1IsTrue_1.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.3, "FoodPrepared");
 }if ( gdjs.GameplayCode.condition1IsTrue_1.val ) {
 {
-gdjs.GameplayCode.condition2IsTrue_1.val = gdjs.evtTools.object.pickedObjectsCount(gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects) < 1;
+gdjs.GameplayCode.condition2IsTrue_1.val = gdjs.evtTools.object.pickedObjectsCount(gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects) < 1;
 }}
 }
 gdjs.GameplayCode.conditionTrue_1.val = true && gdjs.GameplayCode.condition0IsTrue_1.val && gdjs.GameplayCode.condition1IsTrue_1.val && gdjs.GameplayCode.condition2IsTrue_1.val;
@@ -2067,11 +2893,31 @@ gdjs.copyArray(runtimeScene.getObjects("Food4_1"), gdjs.GameplayCode.GDFood4_951
 gdjs.copyArray(runtimeScene.getObjects("Food4_2"), gdjs.GameplayCode.GDFood4_952Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Food4_3"), gdjs.GameplayCode.GDFood4_953Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Food4_4"), gdjs.GameplayCode.GDFood4_954Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food5_1"), gdjs.GameplayCode.GDFood5_951Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food5_2"), gdjs.GameplayCode.GDFood5_952Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food5_3"), gdjs.GameplayCode.GDFood5_953Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food5_4"), gdjs.GameplayCode.GDFood5_954Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food6_1"), gdjs.GameplayCode.GDFood6_951Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food6_2"), gdjs.GameplayCode.GDFood6_952Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food6_3"), gdjs.GameplayCode.GDFood6_953Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food6_4"), gdjs.GameplayCode.GDFood6_954Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food7_1"), gdjs.GameplayCode.GDFood7_951Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food7_2"), gdjs.GameplayCode.GDFood7_952Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food7_3"), gdjs.GameplayCode.GDFood7_953Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food7_4"), gdjs.GameplayCode.GDFood7_954Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food8_1"), gdjs.GameplayCode.GDFood8_951Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food8_2"), gdjs.GameplayCode.GDFood8_952Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food8_3"), gdjs.GameplayCode.GDFood8_953Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food8_4"), gdjs.GameplayCode.GDFood8_954Objects1);
 gdjs.copyArray(runtimeScene.getObjects("OrderDisplay"), gdjs.GameplayCode.GDOrderDisplayObjects1);
 /* Reuse gdjs.GameplayCode.GDFood1Objects1 */
 /* Reuse gdjs.GameplayCode.GDFood2Objects1 */
 /* Reuse gdjs.GameplayCode.GDFood3Objects1 */
 /* Reuse gdjs.GameplayCode.GDFood4Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood5Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood6Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood7Objects1 */
+/* Reuse gdjs.GameplayCode.GDFood8Objects1 */
 gdjs.GameplayCode.GDProgressObjects1.length = 0;
 
 {for(var i = 0, len = gdjs.GameplayCode.GDFood1_951Objects1.length ;i < len;++i) {
@@ -2122,8 +2968,56 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood3_954Objects1.length ;i < len;++i) 
 for(var i = 0, len = gdjs.GameplayCode.GDFood4_954Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood4_954Objects1[i].deleteFromScene(runtimeScene);
 }
-}{runtimeScene.getVariables().getFromIndex(0).setNumber((gdjs.randomInRange(1, gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(13)))));
-}{gdjs.evtTools.object.createObjectFromGroupOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects, "Food" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(0)), 400 - 72, 300 - 89, "");
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_951Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_952Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_953Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_954Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_951Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_952Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_953Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_954Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_951Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_952Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_953Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_954Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_951Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_952Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_953Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_954Objects1[i].deleteFromScene(runtimeScene);
+}
+}{runtimeScene.getVariables().getFromIndex(0).setNumber((gdjs.randomInRange(1, gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(9)))));
+}{gdjs.evtTools.object.createObjectFromGroupOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects, "Food" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(0)), 400 - 72, 300 - 89, "");
 }{for(var i = 0, len = gdjs.GameplayCode.GDFood1Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood1Objects1[i].setScale(1.5);
 }
@@ -2136,8 +3030,20 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood3Objects1.length ;i < len;++i) {
 for(var i = 0, len = gdjs.GameplayCode.GDFood4Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood4Objects1[i].setScale(1.5);
 }
-}{runtimeScene.getVariables().getFromIndex(1).setNumber((gdjs.randomInRange(1, gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(13)))));
-}{gdjs.evtTools.object.createObjectFromGroupOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95954Objects1Objects, "Food" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(0)) + "_" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(1)), (( gdjs.GameplayCode.GDOrderDisplayObjects1.length === 0 ) ? 0 :gdjs.GameplayCode.GDOrderDisplayObjects1[0].getPointX("")) + 50, (( gdjs.GameplayCode.GDOrderDisplayObjects1.length === 0 ) ? 0 :gdjs.GameplayCode.GDOrderDisplayObjects1[0].getPointY("")) + 60, "");
+for(var i = 0, len = gdjs.GameplayCode.GDFood5Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7Objects1[i].setScale(1.5);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8Objects1[i].setScale(1.5);
+}
+}{runtimeScene.getVariables().getFromIndex(1).setNumber((gdjs.randomInRange(1, 4)));
+}{gdjs.evtTools.object.createObjectFromGroupOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood1_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7_95954Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95951Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95952Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95953Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8_95954Objects1Objects, "Food" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(0)) + "_" + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(1)), (( gdjs.GameplayCode.GDOrderDisplayObjects1.length === 0 ) ? 0 :gdjs.GameplayCode.GDOrderDisplayObjects1[0].getPointX("")) + 50, (( gdjs.GameplayCode.GDOrderDisplayObjects1.length === 0 ) ? 0 :gdjs.GameplayCode.GDOrderDisplayObjects1[0].getPointY("")) + 60, "");
 }{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDProgressObjects1Objects, (( gdjs.GameplayCode.GDOrderDisplayObjects1.length === 0 ) ? 0 :gdjs.GameplayCode.GDOrderDisplayObjects1[0].getPointX("")), (( gdjs.GameplayCode.GDOrderDisplayObjects1.length === 0 ) ? 0 :gdjs.GameplayCode.GDOrderDisplayObjects1[0].getPointY("")) + 193, "");
 }{for(var i = 0, len = gdjs.GameplayCode.GDProgressObjects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDProgressObjects1[i].setHeight(8);
@@ -2223,10 +3129,14 @@ gdjs.copyArray(runtimeScene.getObjects("Food1"), gdjs.GameplayCode.GDFood1Object
 gdjs.copyArray(runtimeScene.getObjects("Food2"), gdjs.GameplayCode.GDFood2Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Food3"), gdjs.GameplayCode.GDFood3Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Food4"), gdjs.GameplayCode.GDFood4Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food5"), gdjs.GameplayCode.GDFood5Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food6"), gdjs.GameplayCode.GDFood6Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food7"), gdjs.GameplayCode.GDFood7Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food8"), gdjs.GameplayCode.GDFood8Objects1);
 
 gdjs.GameplayCode.condition0IsTrue_0.val = false;
 {
-gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1Objects, runtimeScene, true, false);
+gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDFood1Objects1ObjectsGDgdjs_46GameplayCode_46GDFood2Objects1ObjectsGDgdjs_46GameplayCode_46GDFood3Objects1ObjectsGDgdjs_46GameplayCode_46GDFood4Objects1ObjectsGDgdjs_46GameplayCode_46GDFood5Objects1ObjectsGDgdjs_46GameplayCode_46GDFood6Objects1ObjectsGDgdjs_46GameplayCode_46GDFood7Objects1ObjectsGDgdjs_46GameplayCode_46GDFood8Objects1Objects, runtimeScene, true, false);
 }if (gdjs.GameplayCode.condition0IsTrue_0.val) {
 
 { //Subevents
@@ -2247,9 +3157,116 @@ gdjs.GameplayCode.eventsList11(runtimeScene);
 
 
 gdjs.GameplayCode.condition0IsTrue_0.val = false;
+gdjs.GameplayCode.condition1IsTrue_0.val = false;
+{
+gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(9)) < 5;
+}if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
+{
+{gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8488964);
+}
+}}
+if (gdjs.GameplayCode.condition1IsTrue_0.val) {
+{runtimeScene.getVariables().getFromIndex(11).setNumber(1);
+}}
+
+}
+
+
+{
+
+
+gdjs.GameplayCode.condition0IsTrue_0.val = false;
+gdjs.GameplayCode.condition1IsTrue_0.val = false;
+{
+gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(9)) == 5;
+}if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
+{
+{gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9263284);
+}
+}}
+if (gdjs.GameplayCode.condition1IsTrue_0.val) {
+{runtimeScene.getVariables().getFromIndex(11).add(0.25);
+}}
+
+}
+
+
+{
+
+
+gdjs.GameplayCode.condition0IsTrue_0.val = false;
+gdjs.GameplayCode.condition1IsTrue_0.val = false;
+{
+gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(9)) == 6;
+}if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
+{
+{gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8859916);
+}
+}}
+if (gdjs.GameplayCode.condition1IsTrue_0.val) {
+{runtimeScene.getVariables().getFromIndex(11).add(0.25);
+}}
+
+}
+
+
+{
+
+
+gdjs.GameplayCode.condition0IsTrue_0.val = false;
+gdjs.GameplayCode.condition1IsTrue_0.val = false;
+{
+gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(9)) == 7;
+}if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
+{
+{gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9261564);
+}
+}}
+if (gdjs.GameplayCode.condition1IsTrue_0.val) {
+{runtimeScene.getVariables().getFromIndex(11).add(0.25);
+}}
+
+}
+
+
+{
+
+
+gdjs.GameplayCode.condition0IsTrue_0.val = false;
+gdjs.GameplayCode.condition1IsTrue_0.val = false;
+{
+gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(9)) == 8;
+}if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
+{
+{gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10690164);
+}
+}}
+if (gdjs.GameplayCode.condition1IsTrue_0.val) {
+{runtimeScene.getVariables().getFromIndex(11).add(0.5);
+}}
+
+}
+
+
+{
+
+
+gdjs.GameplayCode.condition0IsTrue_0.val = false;
+gdjs.GameplayCode.condition1IsTrue_0.val = false;
 {
 gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(3)) >= 3;
-}if (gdjs.GameplayCode.condition0IsTrue_0.val) {
+}if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
+{
+{gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9544940);
+}
+}}
+if (gdjs.GameplayCode.condition1IsTrue_0.val) {
 
 { //Subevents
 gdjs.GameplayCode.eventsList12(runtimeScene);} //End of subevents
@@ -2281,7 +3298,7 @@ gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElaps
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9921676);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10013404);
 }
 }}
 if (gdjs.GameplayCode.condition1IsTrue_0.val) {
@@ -2305,6 +3322,26 @@ gdjs.copyArray(runtimeScene.getObjects("Food4_1"), gdjs.GameplayCode.GDFood4_951
 gdjs.copyArray(runtimeScene.getObjects("Food4_2"), gdjs.GameplayCode.GDFood4_952Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Food4_3"), gdjs.GameplayCode.GDFood4_953Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Food4_4"), gdjs.GameplayCode.GDFood4_954Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food5"), gdjs.GameplayCode.GDFood5Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food5_1"), gdjs.GameplayCode.GDFood5_951Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food5_2"), gdjs.GameplayCode.GDFood5_952Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food5_3"), gdjs.GameplayCode.GDFood5_953Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food5_4"), gdjs.GameplayCode.GDFood5_954Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food6"), gdjs.GameplayCode.GDFood6Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food6_1"), gdjs.GameplayCode.GDFood6_951Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food6_2"), gdjs.GameplayCode.GDFood6_952Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food6_3"), gdjs.GameplayCode.GDFood6_953Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food6_4"), gdjs.GameplayCode.GDFood6_954Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food7"), gdjs.GameplayCode.GDFood7Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food7_1"), gdjs.GameplayCode.GDFood7_951Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food7_2"), gdjs.GameplayCode.GDFood7_952Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food7_3"), gdjs.GameplayCode.GDFood7_953Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food7_4"), gdjs.GameplayCode.GDFood7_954Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food8"), gdjs.GameplayCode.GDFood8Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food8_1"), gdjs.GameplayCode.GDFood8_951Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food8_2"), gdjs.GameplayCode.GDFood8_952Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food8_3"), gdjs.GameplayCode.GDFood8_953Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Food8_4"), gdjs.GameplayCode.GDFood8_954Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Progress"), gdjs.GameplayCode.GDProgressObjects1);
 gdjs.GameplayCode.GDLifeObjects1.length = 0;
 
@@ -2356,6 +3393,54 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood3_954Objects1.length ;i < len;++i) 
 for(var i = 0, len = gdjs.GameplayCode.GDFood4_954Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood4_954Objects1[i].deleteFromScene(runtimeScene);
 }
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_951Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_952Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_953Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5_954Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_951Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_952Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_953Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6_954Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_951Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_952Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_953Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7_954Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_951Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_951Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_952Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_952Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_953Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_953Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8_954Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8_954Objects1[i].deleteFromScene(runtimeScene);
+}
 }{for(var i = 0, len = gdjs.GameplayCode.GDFood1Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood1Objects1[i].deleteFromScene(runtimeScene);
 }
@@ -2367,6 +3452,18 @@ for(var i = 0, len = gdjs.GameplayCode.GDFood3Objects1.length ;i < len;++i) {
 }
 for(var i = 0, len = gdjs.GameplayCode.GDFood4Objects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDFood4Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood5Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood5Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood6Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood6Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood7Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood7Objects1[i].deleteFromScene(runtimeScene);
+}
+for(var i = 0, len = gdjs.GameplayCode.GDFood8Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDFood8Objects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.GameplayCode.GDProgressObjects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDProgressObjects1[i].deleteFromScene(runtimeScene);
@@ -2420,7 +3517,7 @@ gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runt
 }if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
-gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9925228);
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10016956);
 }
 }if ( gdjs.GameplayCode.condition1IsTrue_0.val ) {
 {
@@ -2639,6 +3736,27 @@ gdjs.GameplayCode.eventsList21(runtimeScene);
 {
 
 
+
+}
+
+
+{
+
+
+{
+gdjs.copyArray(runtimeScene.getObjects("Statistics1"), gdjs.GameplayCode.GDStatistics1Objects1);
+{runtimeScene.getVariables().getFromIndex(10).setNumber(Math.round(gdjs.evtTools.runtimeScene.getTimeFromStartInSeconds(runtimeScene)));
+}{for(var i = 0, len = gdjs.GameplayCode.GDStatistics1Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDStatistics1Objects1[i].setString("Seconds Elapsed: " + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(10)));
+}
+}}
+
+}
+
+
+{
+
+
 gdjs.GameplayCode.condition0IsTrue_0.val = false;
 gdjs.GameplayCode.condition1IsTrue_0.val = false;
 {
@@ -2692,12 +3810,12 @@ if( gdjs.GameplayCode.condition1IsTrue_1.val ) {
 
 gdjs.GameplayCode.condition0IsTrue_0.val = false;
 {
-gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(4)) == 1;
+gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(runtimeScene.getVariables().getFromIndex(4), true);
 }if (gdjs.GameplayCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("Life"), gdjs.GameplayCode.GDLifeObjects1);
 gdjs.GameplayCode.GDVulnerabilityObjects1.length = 0;
 
-{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDVulnerabilityObjects1Objects, 630, 60, "");
+{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDVulnerabilityObjects1Objects, 600, 60, "");
 }{runtimeScene.getVariables().getFromIndex(3).setNumber(0);
 }{for(var i = 0, len = gdjs.GameplayCode.GDLifeObjects1.length ;i < len;++i) {
     gdjs.GameplayCode.GDLifeObjects1[i].deleteFromScene(runtimeScene);
@@ -2712,7 +3830,7 @@ gdjs.GameplayCode.GDVulnerabilityObjects1.length = 0;
 
 gdjs.GameplayCode.condition0IsTrue_0.val = false;
 {
-gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(4)) == -(1);
+gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(runtimeScene.getVariables().getFromIndex(4), false);
 }if (gdjs.GameplayCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("Vulnerability"), gdjs.GameplayCode.GDVulnerabilityObjects1);
 {for(var i = 0, len = gdjs.GameplayCode.GDVulnerabilityObjects1.length ;i < len;++i) {
@@ -2726,8 +3844,50 @@ gdjs.copyArray(runtimeScene.getObjects("Vulnerability"), gdjs.GameplayCode.GDVul
 {
 
 
+gdjs.GameplayCode.condition0IsTrue_0.val = false;
+gdjs.GameplayCode.condition1IsTrue_0.val = false;
 {
+gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeScene, "k");
+}if ( gdjs.GameplayCode.condition0IsTrue_0.val ) {
+{
+{gdjs.GameplayCode.conditionTrue_1 = gdjs.GameplayCode.condition1IsTrue_0;
+gdjs.GameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10267444);
 }
+}}
+if (gdjs.GameplayCode.condition1IsTrue_0.val) {
+{gdjs.evtTools.common.toggleVariableBoolean(runtimeScene.getVariables().getFromIndex(9));
+}}
+
+}
+
+
+{
+
+
+gdjs.GameplayCode.condition0IsTrue_0.val = false;
+{
+gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(runtimeScene.getVariables().getFromIndex(9), true);
+}if (gdjs.GameplayCode.condition0IsTrue_0.val) {
+gdjs.GameplayCode.GDStatistics1Objects1.length = 0;
+
+{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.GameplayCode.mapOfGDgdjs_46GameplayCode_46GDStatistics1Objects1Objects, 600, 120, "");
+}}
+
+}
+
+
+{
+
+
+gdjs.GameplayCode.condition0IsTrue_0.val = false;
+{
+gdjs.GameplayCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(runtimeScene.getVariables().getFromIndex(9), false);
+}if (gdjs.GameplayCode.condition0IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("Statistics1"), gdjs.GameplayCode.GDStatistics1Objects1);
+{for(var i = 0, len = gdjs.GameplayCode.GDStatistics1Objects1.length ;i < len;++i) {
+    gdjs.GameplayCode.GDStatistics1Objects1[i].deleteFromScene(runtimeScene);
+}
+}}
 
 }
 
@@ -2827,6 +3987,9 @@ gdjs.GameplayCode.GDNewObjectObjects3.length = 0;
 gdjs.GameplayCode.GDProgressObjects1.length = 0;
 gdjs.GameplayCode.GDProgressObjects2.length = 0;
 gdjs.GameplayCode.GDProgressObjects3.length = 0;
+gdjs.GameplayCode.GDStatistics1Objects1.length = 0;
+gdjs.GameplayCode.GDStatistics1Objects2.length = 0;
+gdjs.GameplayCode.GDStatistics1Objects3.length = 0;
 gdjs.GameplayCode.GDVulnerabilityObjects1.length = 0;
 gdjs.GameplayCode.GDVulnerabilityObjects2.length = 0;
 gdjs.GameplayCode.GDVulnerabilityObjects3.length = 0;
@@ -2866,6 +4029,69 @@ gdjs.GameplayCode.GDContinueButtonObjects3.length = 0;
 gdjs.GameplayCode.GDEscMenuObjects1.length = 0;
 gdjs.GameplayCode.GDEscMenuObjects2.length = 0;
 gdjs.GameplayCode.GDEscMenuObjects3.length = 0;
+gdjs.GameplayCode.GDFood8_954Objects1.length = 0;
+gdjs.GameplayCode.GDFood8_954Objects2.length = 0;
+gdjs.GameplayCode.GDFood8_954Objects3.length = 0;
+gdjs.GameplayCode.GDFood8_953Objects1.length = 0;
+gdjs.GameplayCode.GDFood8_953Objects2.length = 0;
+gdjs.GameplayCode.GDFood8_953Objects3.length = 0;
+gdjs.GameplayCode.GDFood8_952Objects1.length = 0;
+gdjs.GameplayCode.GDFood8_952Objects2.length = 0;
+gdjs.GameplayCode.GDFood8_952Objects3.length = 0;
+gdjs.GameplayCode.GDFood8_951Objects1.length = 0;
+gdjs.GameplayCode.GDFood8_951Objects2.length = 0;
+gdjs.GameplayCode.GDFood8_951Objects3.length = 0;
+gdjs.GameplayCode.GDFood8Objects1.length = 0;
+gdjs.GameplayCode.GDFood8Objects2.length = 0;
+gdjs.GameplayCode.GDFood8Objects3.length = 0;
+gdjs.GameplayCode.GDFood7_954Objects1.length = 0;
+gdjs.GameplayCode.GDFood7_954Objects2.length = 0;
+gdjs.GameplayCode.GDFood7_954Objects3.length = 0;
+gdjs.GameplayCode.GDFood7_953Objects1.length = 0;
+gdjs.GameplayCode.GDFood7_953Objects2.length = 0;
+gdjs.GameplayCode.GDFood7_953Objects3.length = 0;
+gdjs.GameplayCode.GDFood7_952Objects1.length = 0;
+gdjs.GameplayCode.GDFood7_952Objects2.length = 0;
+gdjs.GameplayCode.GDFood7_952Objects3.length = 0;
+gdjs.GameplayCode.GDFood7_951Objects1.length = 0;
+gdjs.GameplayCode.GDFood7_951Objects2.length = 0;
+gdjs.GameplayCode.GDFood7_951Objects3.length = 0;
+gdjs.GameplayCode.GDFood7Objects1.length = 0;
+gdjs.GameplayCode.GDFood7Objects2.length = 0;
+gdjs.GameplayCode.GDFood7Objects3.length = 0;
+gdjs.GameplayCode.GDFood6_954Objects1.length = 0;
+gdjs.GameplayCode.GDFood6_954Objects2.length = 0;
+gdjs.GameplayCode.GDFood6_954Objects3.length = 0;
+gdjs.GameplayCode.GDFood6_953Objects1.length = 0;
+gdjs.GameplayCode.GDFood6_953Objects2.length = 0;
+gdjs.GameplayCode.GDFood6_953Objects3.length = 0;
+gdjs.GameplayCode.GDFood6_952Objects1.length = 0;
+gdjs.GameplayCode.GDFood6_952Objects2.length = 0;
+gdjs.GameplayCode.GDFood6_952Objects3.length = 0;
+gdjs.GameplayCode.GDFood6_951Objects1.length = 0;
+gdjs.GameplayCode.GDFood6_951Objects2.length = 0;
+gdjs.GameplayCode.GDFood6_951Objects3.length = 0;
+gdjs.GameplayCode.GDFood6Objects1.length = 0;
+gdjs.GameplayCode.GDFood6Objects2.length = 0;
+gdjs.GameplayCode.GDFood6Objects3.length = 0;
+gdjs.GameplayCode.GDFood5_954Objects1.length = 0;
+gdjs.GameplayCode.GDFood5_954Objects2.length = 0;
+gdjs.GameplayCode.GDFood5_954Objects3.length = 0;
+gdjs.GameplayCode.GDFood5_953Objects1.length = 0;
+gdjs.GameplayCode.GDFood5_953Objects2.length = 0;
+gdjs.GameplayCode.GDFood5_953Objects3.length = 0;
+gdjs.GameplayCode.GDFood5_952Objects1.length = 0;
+gdjs.GameplayCode.GDFood5_952Objects2.length = 0;
+gdjs.GameplayCode.GDFood5_952Objects3.length = 0;
+gdjs.GameplayCode.GDFood5_951Objects1.length = 0;
+gdjs.GameplayCode.GDFood5_951Objects2.length = 0;
+gdjs.GameplayCode.GDFood5_951Objects3.length = 0;
+gdjs.GameplayCode.GDFood5Objects1.length = 0;
+gdjs.GameplayCode.GDFood5Objects2.length = 0;
+gdjs.GameplayCode.GDFood5Objects3.length = 0;
+gdjs.GameplayCode.GDNewObject3Objects1.length = 0;
+gdjs.GameplayCode.GDNewObject3Objects2.length = 0;
+gdjs.GameplayCode.GDNewObject3Objects3.length = 0;
 
 gdjs.GameplayCode.eventsList23(runtimeScene);
 return;
