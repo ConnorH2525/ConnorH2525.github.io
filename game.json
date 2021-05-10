@@ -3201,7 +3201,7 @@
       ],
       "events": [
         {
-          "disabled": false,
+          "disabled": true,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
@@ -3297,30 +3297,6 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "ChangeAnimation"
-                  },
-                  "parameters": [
-                    "Play",
-                    "=",
-                    "2"
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MettreY"
-                  },
-                  "parameters": [
-                    "Play",
-                    "=",
-                    "305"
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
                     "value": "Scene"
                   },
                   "parameters": [
@@ -3336,7 +3312,7 @@
           ]
         },
         {
-          "disabled": false,
+          "disabled": true,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
@@ -3363,6 +3339,30 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Play",
+                "=",
+                "2"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreY"
+              },
+              "parameters": [
+                "Play",
+                "=",
+                "305"
+              ],
+              "subInstructions": []
+            },
             {
               "type": {
                 "inverted": false,
