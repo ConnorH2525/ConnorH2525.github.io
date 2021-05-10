@@ -1753,6 +1753,24 @@
         "name": "Food8_4-1.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Play-hover-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Play-hover-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Play-pressed-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Play-pressed-1-0.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2383,7 +2401,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Play-hover.png",
+                      "image": "Play-hover-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2412,7 +2430,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Play-pressed-1.png",
+                      "image": "Play-pressed-1-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3201,7 +3219,7 @@
       ],
       "events": [
         {
-          "disabled": true,
+          "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
@@ -3297,6 +3315,30 @@
                 {
                   "type": {
                     "inverted": false,
+                    "value": "ChangeAnimation"
+                  },
+                  "parameters": [
+                    "Play",
+                    "=",
+                    "2"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MettreY"
+                  },
+                  "parameters": [
+                    "Play",
+                    "=",
+                    "305"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
                     "value": "Scene"
                   },
                   "parameters": [
@@ -3312,7 +3354,7 @@
           ]
         },
         {
-          "disabled": true,
+          "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
@@ -3339,30 +3381,6 @@
             }
           ],
           "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Play",
-                "=",
-                "2"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "MettreY"
-              },
-              "parameters": [
-                "Play",
-                "=",
-                "305"
-              ],
-              "subInstructions": []
-            },
             {
               "type": {
                 "inverted": false,

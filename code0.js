@@ -62,7 +62,7 @@ gdjs.MenuCode.condition1IsTrue_1 = {val:false};
 gdjs.MenuCode.condition2IsTrue_1 = {val:false};
 
 
-gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDPlayObjects1Objects = Hashtable.newFrom({"Play": gdjs.MenuCode.GDPlayObjects1});gdjs.MenuCode.eventsList0 = function(runtimeScene) {
+gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDPlayObjects1Objects = Hashtable.newFrom({"Play": gdjs.MenuCode.GDPlayObjects1});gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDPlayObjects1Objects = Hashtable.newFrom({"Play": gdjs.MenuCode.GDPlayObjects1});gdjs.MenuCode.eventsList0 = function(runtimeScene) {
 
 {
 
@@ -72,13 +72,20 @@ gdjs.MenuCode.condition0IsTrue_0.val = false;
 {
 gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDPlayObjects1Objects, runtimeScene, true, false);
 }if (gdjs.MenuCode.condition0IsTrue_0.val) {
-{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Gameplay", false);
+/* Reuse gdjs.MenuCode.GDPlayObjects1 */
+{for(var i = 0, len = gdjs.MenuCode.GDPlayObjects1.length ;i < len;++i) {
+    gdjs.MenuCode.GDPlayObjects1[i].setAnimation(2);
+}
+}{for(var i = 0, len = gdjs.MenuCode.GDPlayObjects1.length ;i < len;++i) {
+    gdjs.MenuCode.GDPlayObjects1[i].setY(305);
+}
+}{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Gameplay", false);
 }}
 
 }
 
 
-};gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDLeaderboardsObjects1Objects = Hashtable.newFrom({"Leaderboards": gdjs.MenuCode.GDLeaderboardsObjects1});gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDLeaderboardsObjects1Objects = Hashtable.newFrom({"Leaderboards": gdjs.MenuCode.GDLeaderboardsObjects1});gdjs.MenuCode.eventsList1 = function(runtimeScene) {
+};gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDPlayObjects1Objects = Hashtable.newFrom({"Play": gdjs.MenuCode.GDPlayObjects1});gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDLeaderboardsObjects1Objects = Hashtable.newFrom({"Leaderboards": gdjs.MenuCode.GDLeaderboardsObjects1});gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDLeaderboardsObjects1Objects = Hashtable.newFrom({"Leaderboards": gdjs.MenuCode.GDLeaderboardsObjects1});gdjs.MenuCode.eventsList1 = function(runtimeScene) {
 
 {
 
@@ -165,7 +172,27 @@ gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonPressed(
 
 {
 
+gdjs.copyArray(runtimeScene.getObjects("Play"), gdjs.MenuCode.GDPlayObjects1);
 
+gdjs.MenuCode.condition0IsTrue_0.val = false;
+gdjs.MenuCode.condition1IsTrue_0.val = false;
+{
+gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDPlayObjects1Objects, runtimeScene, true, false);
+}if ( gdjs.MenuCode.condition0IsTrue_0.val ) {
+{
+{gdjs.MenuCode.conditionTrue_1 = gdjs.MenuCode.condition1IsTrue_0;
+gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10336740);
+}
+}}
+if (gdjs.MenuCode.condition1IsTrue_0.val) {
+/* Reuse gdjs.MenuCode.GDPlayObjects1 */
+{for(var i = 0, len = gdjs.MenuCode.GDPlayObjects1.length ;i < len;++i) {
+    gdjs.MenuCode.GDPlayObjects1[i].setAnimation(1);
+}
+}{for(var i = 0, len = gdjs.MenuCode.GDPlayObjects1.length ;i < len;++i) {
+    gdjs.MenuCode.GDPlayObjects1[i].setY(300);
+}
+}}
 
 }
 
@@ -187,7 +214,27 @@ gdjs.MenuCode.eventsList0(runtimeScene);} //End of subevents
 
 {
 
+gdjs.copyArray(runtimeScene.getObjects("Play"), gdjs.MenuCode.GDPlayObjects1);
 
+gdjs.MenuCode.condition0IsTrue_0.val = false;
+gdjs.MenuCode.condition1IsTrue_0.val = false;
+{
+gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDPlayObjects1Objects, runtimeScene, true, true);
+}if ( gdjs.MenuCode.condition0IsTrue_0.val ) {
+{
+{gdjs.MenuCode.conditionTrue_1 = gdjs.MenuCode.condition1IsTrue_0;
+gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10339332);
+}
+}}
+if (gdjs.MenuCode.condition1IsTrue_0.val) {
+/* Reuse gdjs.MenuCode.GDPlayObjects1 */
+{for(var i = 0, len = gdjs.MenuCode.GDPlayObjects1.length ;i < len;++i) {
+    gdjs.MenuCode.GDPlayObjects1[i].setAnimation(0);
+}
+}{for(var i = 0, len = gdjs.MenuCode.GDPlayObjects1.length ;i < len;++i) {
+    gdjs.MenuCode.GDPlayObjects1[i].setY(290);
+}
+}}
 
 }
 
