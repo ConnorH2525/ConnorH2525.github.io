@@ -69,16 +69,9 @@ gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDPlayObjects1Objects = Hashtable.newFrom
 gdjs.copyArray(runtimeScene.getObjects("Play"), gdjs.MenuCode.GDPlayObjects1);
 
 gdjs.MenuCode.condition0IsTrue_0.val = false;
-gdjs.MenuCode.condition1IsTrue_0.val = false;
 {
 gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.MenuCode.mapOfGDgdjs_46MenuCode_46GDPlayObjects1Objects, runtimeScene, true, false);
-}if ( gdjs.MenuCode.condition0IsTrue_0.val ) {
-{
-{gdjs.MenuCode.conditionTrue_1 = gdjs.MenuCode.condition1IsTrue_0;
-gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9936500);
-}
-}}
-if (gdjs.MenuCode.condition1IsTrue_0.val) {
+}if (gdjs.MenuCode.condition0IsTrue_0.val) {
 /* Reuse gdjs.MenuCode.GDPlayObjects1 */
 {for(var i = 0, len = gdjs.MenuCode.GDPlayObjects1.length ;i < len;++i) {
     gdjs.MenuCode.GDPlayObjects1[i].setAnimation(2);
